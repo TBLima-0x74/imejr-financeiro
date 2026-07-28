@@ -1,0 +1,12 @@
+# Dados brutos e processados nao vao para o Git (financeiro/LGPD)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
