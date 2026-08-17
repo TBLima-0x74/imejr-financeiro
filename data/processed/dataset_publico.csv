@@ -1,0 +1,1683 @@
+data,tipo,categoria,valor,cliente_projeto,fonte,gestao
+2018-09-04,ENTRADA,rendimento automático,0.58,,18_19.xlsx,18_19
+2018-09-05,ENTRADA,rendimento automático,4.84,,18_19.xlsx,18_19
+2018-09-06,ENTRADA,rendimento automático,6.28,,18_19.xlsx,18_19
+2018-09-11,ENTRADA,rendimento automático,18.06,,18_19.xlsx,18_19
+2018-09-12,ENTRADA,rendimento automático,18.7,,18_19.xlsx,18_19
+2018-09-12,ENTRADA,evento mej,340.0,,18_19.xlsx,18_19
+2018-09-14,ENTRADA,rendimento automático,17.37,,18_19.xlsx,18_19
+2018-09-18,ENTRADA,projeto,150.0,Cliente 076,18_19.xlsx,18_19
+2018-09-19,ENTRADA,rendimento automático,4.64,,18_19.xlsx,18_19
+2018-09-20,ENTRADA,rendimento automático,14.88,,18_19.xlsx,18_19
+2018-09-24,ENTRADA,projeto,450.0,Cliente 084,18_19.xlsx,18_19
+2018-09-19,ENTRADA,evento mej,340.0,,18_19.xlsx,18_19
+2018-09-25,ENTRADA,projeto,930.0,Cliente 061,18_19.xlsx,18_19
+2018-09-25,ENTRADA,evento mej,340.0,,18_19.xlsx,18_19
+2018-09-25,ENTRADA,rendimento automático,2.23,,18_19.xlsx,18_19
+2018-09-27,ENTRADA,não categorizado,9.21,,18_19.xlsx,18_19
+2018-09-27,ENTRADA,projeto,891.43,Cliente 039,18_19.xlsx,18_19
+2018-09-27,ENTRADA,projeto,1164.44,Cliente 001,18_19.xlsx,18_19
+2018-09-27,ENTRADA,projeto,1796.93,Cliente 001,18_19.xlsx,18_19
+2018-09-27,ENTRADA,projeto,3267.0,Cliente 001,18_19.xlsx,18_19
+2018-10-03,ENTRADA,rendimento automático,12.45,,18_19.xlsx,18_19
+2018-10-02,ENTRADA,rendimento automático,0.46,,18_19.xlsx,18_19
+2018-10-09,ENTRADA,rendimento automático,5.58,,18_19.xlsx,18_19
+2018-10-11,ENTRADA,projeto,950.0,Cliente 058,18_19.xlsx,18_19
+2018-10-15,ENTRADA,projeto,2821.85,Cliente 001,18_19.xlsx,18_19
+2018-10-18,ENTRADA,rendimento automático,16.78,,18_19.xlsx,18_19
+2018-10-19,ENTRADA,rendimento automático,27.56,,18_19.xlsx,18_19
+2018-10-23,ENTRADA,projeto,900.0,Cliente 038,18_19.xlsx,18_19
+2018-10-23,ENTRADA,rendimento automático,22.57,,18_19.xlsx,18_19
+2018-10-24,ENTRADA,rendimento automático,1.34,,18_19.xlsx,18_19
+2018-10-29,ENTRADA,projeto,891.43,Cliente 039,18_19.xlsx,18_19
+2018-10-29,ENTRADA,projeto,2839.98,Cliente 001,18_19.xlsx,18_19
+2018-10-29,ENTRADA,projeto,4668.0,Cliente 001,18_19.xlsx,18_19
+2018-10-29,ENTRADA,projeto,1028.5,Cliente 003,18_19.xlsx,18_19
+2018-10-31,ENTRADA,rendimento automático,2.59,,18_19.xlsx,18_19
+2018-11-08,ENTRADA,rendimento automático,3.12,,18_19.xlsx,18_19
+2018-11-09,ENTRADA,projeto,2446.6,Cliente 001,18_19.xlsx,18_19
+2018-11-12,ENTRADA,projeto,50.0,Cliente 049,18_19.xlsx,18_19
+2018-11-12,ENTRADA,projeto,1200.0,Cliente 049,18_19.xlsx,18_19
+2018-11-12,ENTRADA,projeto,700.0,Cliente 066,18_19.xlsx,18_19
+2018-11-16,ENTRADA,rendimento automático,6.25,,18_19.xlsx,18_19
+2018-11-16,ENTRADA,capacitação,295.87,,18_19.xlsx,18_19
+2018-11-19,ENTRADA,projeto,900.0,Cliente 038,18_19.xlsx,18_19
+2018-11-28,ENTRADA,projeto,891.43,,18_19.xlsx,18_19
+2018-12-04,ENTRADA,rendimento automático,17.28,,18_19.xlsx,18_19
+2018-12-10,ENTRADA,projeto,550.0,Cliente 077,18_19.xlsx,18_19
+2018-12-11,ENTRADA,projeto,1350.0,Cliente 045,18_19.xlsx,18_19
+2018-12-11,ENTRADA,rendimento automático,9.64,,18_19.xlsx,18_19
+2018-12-18,ENTRADA,projeto,3071.4,Cliente 001,18_19.xlsx,18_19
+2018-12-18,ENTRADA,projeto,900.0,Cliente 062,18_19.xlsx,18_19
+2018-12-19,ENTRADA,não categorizado,370.0,,18_19.xlsx,18_19
+2018-12-20,ENTRADA,projeto,1439.9,Cliente 003,18_19.xlsx,18_19
+2018-12-20,ENTRADA,projeto,500.0,Cliente 081,18_19.xlsx,18_19
+2019-01-03,ENTRADA,rendimento automático,0.48,,18_19.xlsx,18_19
+2019-01-14,ENTRADA,rendimento automático,26.08,,18_19.xlsx,18_19
+2019-01-14,ENTRADA,rendimento automático,26.08,,18_19.xlsx,18_19
+2019-01-18,ENTRADA,projeto,9471.49,Cliente 005,18_19.xlsx,18_19
+2019-01-24,ENTRADA,evento mej,285.0,,18_19.xlsx,18_19
+2019-02-04,ENTRADA,rendimento automático,2.56,,18_19.xlsx,18_19
+2019-02-05,ENTRADA,rendimento automático,3.42,,18_19.xlsx,18_19
+2019-02-07,ENTRADA,rendimento automático,5.36,,18_19.xlsx,18_19
+2019-02-11,ENTRADA,rendimento automático,20.86,,18_19.xlsx,18_19
+2019-02-12,ENTRADA,rendimento automático,1.08,,18_19.xlsx,18_19
+2019-02-22,ENTRADA,rendimento automático,8.86,,18_19.xlsx,18_19
+2019-02-25,ENTRADA,não categorizado,38.62,,18_19.xlsx,18_19
+2019-02-28,ENTRADA,não categorizado,54.23,,18_19.xlsx,18_19
+2019-03-06,ENTRADA,não categorizado,0.47,,18_19.xlsx,18_19
+2019-03-07,ENTRADA,rendimento automático,0.24,,18_19.xlsx,18_19
+2019-03-08,ENTRADA,projeto,1439.9,Cliente 003,18_19.xlsx,18_19
+2019-03-11,ENTRADA,projeto,1959.59,Cliente 013,18_19.xlsx,18_19
+2019-03-15,ENTRADA,rendimento automático,2.34,,18_19.xlsx,18_19
+2019-03-21,ENTRADA,projeto,1439.9,Cliente 003,18_19.xlsx,18_19
+2019-03-25,ENTRADA,rendimento automático,8.28,,18_19.xlsx,18_19
+2019-03-27,ENTRADA,rendimento automático,7.17,,18_19.xlsx,18_19
+2019-04-01,ENTRADA,rendimento automático,24.31,,18_19.xlsx,18_19
+2019-04-02,ENTRADA,rendimento automático,0.53,,18_19.xlsx,18_19
+2019-04-04,ENTRADA,rendimento automático,0.43,,18_19.xlsx,18_19
+2019-04-10,ENTRADA,não categorizado,2.8,,18_19.xlsx,18_19
+2019-04-16,ENTRADA,rendimento automático,15.07,,18_19.xlsx,18_19
+2019-04-22,ENTRADA,rendimento automático,26.16,,18_19.xlsx,18_19
+2019-04-24,ENTRADA,projeto,250.0,Cliente 093,18_19.xlsx,18_19
+2019-04-24,ENTRADA,rendimento automático,10.36,,18_19.xlsx,18_19
+2019-04-25,ENTRADA,rendimento automático,25.61,,18_19.xlsx,18_19
+2019-04-29,ENTRADA,rendimento automático,30.29,,18_19.xlsx,18_19
+2019-04-30,ENTRADA,rendimento automático,11.41,,18_19.xlsx,18_19
+2019-05-03,ENTRADA,não categorizado,0.44,,18_19.xlsx,18_19
+2019-05-06,ENTRADA,rendimento automático,5.7,,18_19.xlsx,18_19
+2019-05-07,ENTRADA,projeto,650.0,Cliente 071,18_19.xlsx,18_19
+2019-05-20,ENTRADA,projeto,1000.0,Cliente 053,18_19.xlsx,18_19
+2019-05-21,ENTRADA,projeto,1400.0,Cliente 010,18_19.xlsx,18_19
+2019-05-22,ENTRADA,projeto,2879.8,Cliente 003,18_19.xlsx,18_19
+2019-05-24,ENTRADA,rendimento automático,15.29,,18_19.xlsx,18_19
+2019-05-28,ENTRADA,projeto,400.0,Cliente 076,18_19.xlsx,18_19
+2019-05-28,ENTRADA,projeto,300.0,Cliente 091,18_19.xlsx,18_19
+2019-05-28,ENTRADA,rendimento automático,15.99,,18_19.xlsx,18_19
+2019-05-30,ENTRADA,rendimento automático,7.08,,18_19.xlsx,18_19
+2019-06-05,ENTRADA,projeto,540.0,Cliente 001,18_19.xlsx,18_19
+2019-06-05,ENTRADA,projeto,549.8,Cliente 001,18_19.xlsx,18_19
+2019-06-06,ENTRADA,projeto,500.0,Cliente 083,18_19.xlsx,18_19
+2019-06-07,ENTRADA,projeto,500.0,Cliente 035,18_19.xlsx,18_19
+2019-06-10,ENTRADA,projeto,320.0,Cliente 028,18_19.xlsx,18_19
+2019-06-10,ENTRADA,projeto,320.0,Cliente 028,18_19.xlsx,18_19
+2019-06-11,ENTRADA,projeto,640.0,Cliente 028,18_19.xlsx,18_19
+2019-06-11,ENTRADA,projeto,2600.0,Cliente 010,18_19.xlsx,18_19
+2019-06-19,ENTRADA,projeto,1500.0,Cliente 043,18_19.xlsx,18_19
+2019-06-28,ENTRADA,rendimento automático,7.67,,18_19.xlsx,18_19
+2019-07-02,ENTRADA,rendimento automático,0.55,,18_19.xlsx,18_19
+2019-07-03,ENTRADA,projeto,580.0,Cliente 073,18_19.xlsx,18_19
+2019-07-09,ENTRADA,projeto,320.0,Cliente 028,18_19.xlsx,18_19
+2019-07-10,ENTRADA,projeto,320.0,Cliente 028,18_19.xlsx,18_19
+2019-07-10,ENTRADA,projeto,320.0,Cliente 028,18_19.xlsx,18_19
+2019-07-11,ENTRADA,projeto,320.0,Cliente 028,18_19.xlsx,18_19
+2019-07-11,ENTRADA,projeto,750.0,Cliente 065,18_19.xlsx,18_19
+2019-07-24,ENTRADA,rendimento automático,26.73,,18_19.xlsx,18_19
+2019-07-26,ENTRADA,rendimento automático,24.44,,18_19.xlsx,18_19
+2019-08-01,ENTRADA,projeto,797.61,,18_19.xlsx,18_19
+2019-08-02,ENTRADA,não categorizado,13.52,,18_19.xlsx,18_19
+2019-08-07,ENTRADA,projeto,7835.66,,18_19.xlsx,18_19
+2019-08-07,ENTRADA,projeto,310.0,,18_19.xlsx,18_19
+2019-08-09,ENTRADA,projeto,320.0,,18_19.xlsx,18_19
+2019-08-09,ENTRADA,projeto,320.0,,18_19.xlsx,18_19
+2019-08-12,ENTRADA,projeto,320.0,,18_19.xlsx,18_19
+2019-08-14,ENTRADA,não categorizado,1.11,,18_19.xlsx,18_19
+2019-08-14,ENTRADA,projeto,320.0,,18_19.xlsx,18_19
+2019-08-15,ENTRADA,rendimento automático,41.55,,18_19.xlsx,18_19
+2019-08-19,ENTRADA,projeto,1000.0,Cliente 055,18_19.xlsx,18_19
+2019-08-20,ENTRADA,rendimento automático,5.66,,18_19.xlsx,18_19
+2019-08-22,ENTRADA,rendimento automático,5.14,,18_19.xlsx,18_19
+2018-09-04,SAÍDA,taxa do banco,55.0,,18_19.xlsx,18_19
+2018-09-04,SAÍDA,não categorizado,2.1,,18_19.xlsx,18_19
+2018-09-05,SAÍDA,custo de projeto,390.74,Cliente 001,18_19.xlsx,18_19
+2018-09-05,SAÍDA,custo de projeto,82.93,,18_19.xlsx,18_19
+2018-09-06,SAÍDA,jurídico,600.0,,18_19.xlsx,18_19
+2018-09-06,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2018-09-11,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2018-09-11,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2018-09-11,SAÍDA,não categorizado,120.0,,18_19.xlsx,18_19
+2018-09-11,SAÍDA,membro,424.2,,18_19.xlsx,18_19
+2018-09-11,SAÍDA,capacitação,1200.0,,18_19.xlsx,18_19
+2018-09-12,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2018-09-12,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2018-09-12,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2018-09-12,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2018-09-12,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2018-09-12,SAÍDA,não categorizado,100.0,,18_19.xlsx,18_19
+2018-09-12,SAÍDA,evento mej,340.0,,18_19.xlsx,18_19
+2018-09-12,SAÍDA,evento mej,340.0,,18_19.xlsx,18_19
+2018-09-12,SAÍDA,evento mej,340.0,,18_19.xlsx,18_19
+2018-09-12,SAÍDA,evento mej,340.0,,18_19.xlsx,18_19
+2018-09-12,SAÍDA,evento mej,340.0,,18_19.xlsx,18_19
+2018-09-12,SAÍDA,evento mej,340.0,,18_19.xlsx,18_19
+2018-09-14,SAÍDA,custo de projeto,1933.8,Cliente 001,18_19.xlsx,18_19
+2018-09-14,SAÍDA,custo de projeto,270.85,Cliente 001,18_19.xlsx,18_19
+2018-09-19,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2018-09-19,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2018-09-19,SAÍDA,evento mej,340.0,,18_19.xlsx,18_19
+2018-09-19,SAÍDA,evento mej,340.0,,18_19.xlsx,18_19
+2018-09-19,SAÍDA,custo de projeto,28.58,,18_19.xlsx,18_19
+2018-09-20,SAÍDA,evento mej,340.0,,18_19.xlsx,18_19
+2018-09-20,SAÍDA,marketing,94.0,,18_19.xlsx,18_19
+2018-09-20,SAÍDA,custo de projeto,73.0,,18_19.xlsx,18_19
+2018-09-20,SAÍDA,evento mej,480.0,,18_19.xlsx,18_19
+2018-09-20,SAÍDA,evento mej,340.0,,18_19.xlsx,18_19
+2018-09-20,SAÍDA,evento mej,480.0,,18_19.xlsx,18_19
+2018-09-20,SAÍDA,servidor,368.87,,18_19.xlsx,18_19
+2018-09-20,SAÍDA,jurídico,16.0,,18_19.xlsx,18_19
+2018-09-25,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2018-09-25,SAÍDA,evento mej,340.0,,18_19.xlsx,18_19
+2018-09-25,SAÍDA,evento mej,340.0,,18_19.xlsx,18_19
+2018-09-25,SAÍDA,custo de projeto,97.37,Cliente 001,18_19.xlsx,18_19
+2018-09-25,SAÍDA,custo de projeto,89.9,Cliente 001,18_19.xlsx,18_19
+2018-09-25,SAÍDA,evento mej,340.0,,18_19.xlsx,18_19
+2018-09-27,SAÍDA,custo de vendas,301.14,,18_19.xlsx,18_19
+2018-09-27,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2018-09-27,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2018-09-27,SAÍDA,evento mej,340.0,,18_19.xlsx,18_19
+2018-09-27,SAÍDA,não categorizado,114.78,,18_19.xlsx,18_19
+2018-09-27,SAÍDA,evento mej,340.0,,18_19.xlsx,18_19
+2018-10-02,SAÍDA,taxa do banco,55.0,,18_19.xlsx,18_19
+2018-10-03,SAÍDA,contador,477.0,,18_19.xlsx,18_19
+2018-10-03,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2018-10-03,SAÍDA,imposto,471.02,,18_19.xlsx,18_19
+2018-10-03,SAÍDA,imposto,237.18,,18_19.xlsx,18_19
+2018-10-09,SAÍDA,evento mej,361.8,,18_19.xlsx,18_19
+2018-10-09,SAÍDA,evento mej,361.8,,18_19.xlsx,18_19
+2018-10-11,SAÍDA,sede,80.0,,18_19.xlsx,18_19
+2018-10-15,SAÍDA,material,192.0,,18_19.xlsx,18_19
+2018-10-15,SAÍDA,custo de projeto,1478.0,Cliente 001,18_19.xlsx,18_19
+2018-10-15,SAÍDA,não categorizado,435.08,,18_19.xlsx,18_19
+2018-10-18,SAÍDA,imersão,650.0,,18_19.xlsx,18_19
+2018-10-18,SAÍDA,material,192.0,,18_19.xlsx,18_19
+2018-10-18,SAÍDA,imersão,1286.91,,18_19.xlsx,18_19
+2018-10-19,SAÍDA,imersão,750.0,,18_19.xlsx,18_19
+2018-10-19,SAÍDA,imersão,500.0,,18_19.xlsx,18_19
+2018-10-19,SAÍDA,sede,2279.05,,18_19.xlsx,18_19
+2018-10-23,SAÍDA,imersão,72.42,,18_19.xlsx,18_19
+2018-10-23,SAÍDA,imersão,700.0,,18_19.xlsx,18_19
+2018-10-23,SAÍDA,custo de vendas,46.12,,18_19.xlsx,18_19
+2018-10-23,SAÍDA,capacitação,780.86,,18_19.xlsx,18_19
+2018-10-23,SAÍDA,custo de vendas,64.9,,18_19.xlsx,18_19
+2018-10-23,SAÍDA,capacitação,23.99,,18_19.xlsx,18_19
+2018-10-23,SAÍDA,imersão,130.8,,18_19.xlsx,18_19
+2018-10-23,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2018-10-23,SAÍDA,custo de projeto,44.76,,18_19.xlsx,18_19
+2018-10-23,SAÍDA,custo de vendas,20.0,,18_19.xlsx,18_19
+2018-10-23,SAÍDA,imersão,2100.0,,18_19.xlsx,18_19
+2018-10-24,SAÍDA,não categorizado,200.0,,18_19.xlsx,18_19
+2018-10-29,SAÍDA,custo de projeto,500.0,Cliente 013,18_19.xlsx,18_19
+2018-10-29,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2018-10-31,SAÍDA,não categorizado,270.0,,18_19.xlsx,18_19
+2018-10-31,SAÍDA,material,100.0,,18_19.xlsx,18_19
+2018-11-05,SAÍDA,material,279.0,,18_19.xlsx,18_19
+2018-11-05,SAÍDA,taxa do banco,55.0,,18_19.xlsx,18_19
+2018-11-05,SAÍDA,tarifas excedentes,2.1,,18_19.xlsx,18_19
+2018-11-08,SAÍDA,jurídico,425.11,,18_19.xlsx,18_19
+2018-11-13,SAÍDA,bonificação,252.5,,18_19.xlsx,18_19
+2018-11-16,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2018-11-16,SAÍDA,contador,477.0,,18_19.xlsx,18_19
+2018-11-16,SAÍDA,imposto,89.36,,18_19.xlsx,18_19
+2018-11-16,SAÍDA,capacitação,295.87,,18_19.xlsx,18_19
+2018-11-27,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2018-11-27,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2018-11-27,SAÍDA,não categorizado,39.99,,18_19.xlsx,18_19
+2018-11-27,SAÍDA,não categorizado,771.98,,18_19.xlsx,18_19
+2018-11-27,SAÍDA,sede,83.6,,18_19.xlsx,18_19
+2018-11-27,SAÍDA,trimestralidade,453.0,,18_19.xlsx,18_19
+2018-12-04,SAÍDA,custo de projeto,500.0,Cliente 013,18_19.xlsx,18_19
+2018-12-04,SAÍDA,custo de projeto,1371.42,,18_19.xlsx,18_19
+2018-12-04,SAÍDA,imposto,271.46,,18_19.xlsx,18_19
+2018-12-11,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2018-12-11,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2018-12-11,SAÍDA,custo de projeto,2000.0,,18_19.xlsx,18_19
+2018-12-18,SAÍDA,não categorizado,80.0,,18_19.xlsx,18_19
+2018-12-18,SAÍDA,material,120.0,,18_19.xlsx,18_19
+2018-12-18,SAÍDA,não categorizado,75.18,,18_19.xlsx,18_19
+2018-12-18,SAÍDA,custo de projeto,600.0,Cliente 054,18_19.xlsx,18_19
+2018-12-18,SAÍDA,servidor,53.98,,18_19.xlsx,18_19
+2018-12-18,SAÍDA,custo de projeto,40.0,,18_19.xlsx,18_19
+2018-12-18,SAÍDA,sede,516.96,,18_19.xlsx,18_19
+2018-12-18,SAÍDA,custo de projeto,195.0,,18_19.xlsx,18_19
+2018-12-19,SAÍDA,sede,7.9,,18_19.xlsx,18_19
+2019-01-03,SAÍDA,taxa do banco,55.0,,18_19.xlsx,18_19
+2019-01-14,SAÍDA,tarifas excedentes,10.15,,18_19.xlsx,18_19
+2019-01-14,SAÍDA,não categorizado,295.0,,18_19.xlsx,18_19
+2019-01-14,SAÍDA,evento mej,282.6,,18_19.xlsx,18_19
+2019-01-14,SAÍDA,evento mej,282.6,,18_19.xlsx,18_19
+2019-01-14,SAÍDA,evento mej,300.8,,18_19.xlsx,18_19
+2019-01-14,SAÍDA,contador,1716.99,,18_19.xlsx,18_19
+2019-02-04,SAÍDA,evento mej,260.0,,18_19.xlsx,18_19
+2019-02-05,SAÍDA,evento mej,100.0,,18_19.xlsx,18_19
+2019-02-05,SAÍDA,evento mej,100.0,,18_19.xlsx,18_19
+2019-02-05,SAÍDA,evento mej,85.0,,18_19.xlsx,18_19
+2019-02-05,SAÍDA,taxa do banco,55.0,,18_19.xlsx,18_19
+2019-02-05,SAÍDA,taxa do banco,3.8,,18_19.xlsx,18_19
+2019-02-05,SAÍDA,taxa do banco,2.2,,18_19.xlsx,18_19
+2019-02-07,SAÍDA,contador,499.0,,18_19.xlsx,18_19
+2019-02-07,SAÍDA,imposto,41.76,,18_19.xlsx,18_19
+2019-02-11,SAÍDA,custo de projeto,2122.95,Cliente 001,18_19.xlsx,18_19
+2019-02-12,SAÍDA,evento mej,110.0,,18_19.xlsx,18_19
+2019-02-22,SAÍDA,evento mej,861.0,,18_19.xlsx,18_19
+2019-02-25,SAÍDA,material,136.6,,18_19.xlsx,18_19
+2019-02-25,SAÍDA,material,188.0,,18_19.xlsx,18_19
+2019-02-25,SAÍDA,material,453.45,,18_19.xlsx,18_19
+2019-02-25,SAÍDA,material,1500.0,,18_19.xlsx,18_19
+2019-02-25,SAÍDA,material,1500.0,,18_19.xlsx,18_19
+2019-02-28,SAÍDA,sede,45.1,,18_19.xlsx,18_19
+2019-02-28,SAÍDA,evento mej,110.0,,18_19.xlsx,18_19
+2019-02-28,SAÍDA,custo de projeto,55.0,,18_19.xlsx,18_19
+2019-02-28,SAÍDA,material,800.0,,18_19.xlsx,18_19
+2019-02-28,SAÍDA,sede,199.98,,18_19.xlsx,18_19
+2019-02-28,SAÍDA,custo de vendas,331.78,,18_19.xlsx,18_19
+2019-02-28,SAÍDA,material,2780.0,,18_19.xlsx,18_19
+2019-02-28,SAÍDA,custo de projeto,1002.14,,18_19.xlsx,18_19
+2019-02-28,SAÍDA,não categorizado,271.0,,18_19.xlsx,18_19
+2019-02-28,SAÍDA,tarifas excedentes,10.6,,18_19.xlsx,18_19
+2019-02-28,SAÍDA,tarifas excedentes,10.6,,18_19.xlsx,18_19
+2019-02-28,SAÍDA,tarifas excedentes,10.6,,18_19.xlsx,18_19
+2019-02-28,SAÍDA,tarifas excedentes,10.6,,18_19.xlsx,18_19
+2019-02-28,SAÍDA,tarifas excedentes,10.6,,18_19.xlsx,18_19
+2019-02-28,SAÍDA,tarifas excedentes,10.6,,18_19.xlsx,18_19
+2019-03-06,SAÍDA,taxa do banco,59.0,,18_19.xlsx,18_19
+2019-03-07,SAÍDA,custo de projeto,30.0,,18_19.xlsx,18_19
+2019-03-11,SAÍDA,jurídico,549.0,,18_19.xlsx,18_19
+2019-03-11,SAÍDA,evento mej,85.0,,18_19.xlsx,18_19
+2019-03-15,SAÍDA,custo de projeto,65.0,Cliente 001,18_19.xlsx,18_19
+2019-03-15,SAÍDA,evento mej,110.0,,18_19.xlsx,18_19
+2019-03-15,SAÍDA,material,105.0,,18_19.xlsx,18_19
+2019-03-25,SAÍDA,material,792.0,,18_19.xlsx,18_19
+2019-03-27,SAÍDA,material,792.0,,18_19.xlsx,18_19
+2019-03-27,SAÍDA,evento mej,20.0,,18_19.xlsx,18_19
+2019-04-01,SAÍDA,tarifas excedentes,10.6,,18_19.xlsx,18_19
+2019-04-01,SAÍDA,tarifas excedentes,10.6,,18_19.xlsx,18_19
+2019-04-01,SAÍDA,imposto,39.79,,18_19.xlsx,18_19
+2019-04-01,SAÍDA,custo de projeto,1612.65,Cliente 001,18_19.xlsx,18_19
+2019-04-01,SAÍDA,custo de projeto,1131.74,,18_19.xlsx,18_19
+2019-04-02,SAÍDA,taxa do banco,59.0,,18_19.xlsx,18_19
+2019-04-04,SAÍDA,imposto,46.77,,18_19.xlsx,18_19
+2019-04-10,SAÍDA,custo de projeto,300.0,,18_19.xlsx,18_19
+2019-04-16,SAÍDA,jurídico,134.52,,18_19.xlsx,18_19
+2019-04-16,SAÍDA,trimestralidade,452.39,,18_19.xlsx,18_19
+2019-04-16,SAÍDA,evento mej,85.0,,18_19.xlsx,18_19
+2019-04-16,SAÍDA,evento mej,100.0,,18_19.xlsx,18_19
+2019-04-16,SAÍDA,evento mej,100.0,,18_19.xlsx,18_19
+2019-04-16,SAÍDA,não categorizado,314.75,,18_19.xlsx,18_19
+2019-04-16,SAÍDA,não categorizado,218.75,,18_19.xlsx,18_19
+2019-04-16,SAÍDA,sede,215.0,,18_19.xlsx,18_19
+2019-04-22,SAÍDA,custo de projeto,2000.0,,18_19.xlsx,18_19
+2019-04-22,SAÍDA,não categorizado,830.0,,18_19.xlsx,18_19
+2019-04-24,SAÍDA,custo de projeto,1500.0,,18_19.xlsx,18_19
+2019-04-25,SAÍDA,imersão,1900.0,,18_19.xlsx,18_19
+2019-04-25,SAÍDA,material,22.9,,18_19.xlsx,18_19
+2019-04-25,SAÍDA,imersão,1000.0,,18_19.xlsx,18_19
+2019-04-25,SAÍDA,imersão,150.0,,18_19.xlsx,18_19
+2019-04-25,SAÍDA,tarifas excedentes,10.6,,18_19.xlsx,18_19
+2019-04-29,SAÍDA,tarifas excedentes,10.6,,18_19.xlsx,18_19
+2019-04-29,SAÍDA,imersão,160.45,,18_19.xlsx,18_19
+2019-04-29,SAÍDA,imersão,1500.0,,18_19.xlsx,18_19
+2019-04-29,SAÍDA,não categorizado,50.0,,18_19.xlsx,18_19
+2019-04-29,SAÍDA,imersão,1900.0,,18_19.xlsx,18_19
+2019-04-30,SAÍDA,imersão,400.0,,18_19.xlsx,18_19
+2019-04-30,SAÍDA,não categorizado,3.8,,18_19.xlsx,18_19
+2019-05-03,SAÍDA,taxa do banco,59.0,,18_19.xlsx,18_19
+2019-05-06,SAÍDA,tarifas excedentes,10.6,,18_19.xlsx,18_19
+2019-05-06,SAÍDA,tarifas excedentes,10.6,,18_19.xlsx,18_19
+2019-05-06,SAÍDA,custo de projeto,20.0,Cliente 001,18_19.xlsx,18_19
+2019-05-06,SAÍDA,material,226.65,,18_19.xlsx,18_19
+2019-05-06,SAÍDA,custo de projeto,184.3,,18_19.xlsx,18_19
+2019-05-06,SAÍDA,imposto,21.79,,18_19.xlsx,18_19
+2019-05-06,SAÍDA,custo de projeto,124.5,Cliente 001,18_19.xlsx,18_19
+2019-05-06,SAÍDA,custo de projeto,162.8,,18_19.xlsx,18_19
+2019-05-24,SAÍDA,tarifas excedentes,10.6,,18_19.xlsx,18_19
+2019-05-24,SAÍDA,custo de projeto,40.0,Cliente 001,18_19.xlsx,18_19
+2019-05-24,SAÍDA,marketing,1241.63,,18_19.xlsx,18_19
+2019-05-24,SAÍDA,evento mej,36.21,,18_19.xlsx,18_19
+2019-05-24,SAÍDA,evento mej,38.32,,18_19.xlsx,18_19
+2019-05-24,SAÍDA,custo de projeto,74.96,Cliente 001,18_19.xlsx,18_19
+2019-05-28,SAÍDA,marketing,2598.14,,18_19.xlsx,18_19
+2019-05-30,SAÍDA,marketing,830.0,,18_19.xlsx,18_19
+2019-06-04,SAÍDA,taxa do banco,59.0,,18_19.xlsx,18_19
+2019-06-04,SAÍDA,taxa do banco,2.2,,18_19.xlsx,18_19
+2019-06-21,SAÍDA,contador,499.0,,18_19.xlsx,18_19
+2019-06-21,SAÍDA,custo de projeto,1049.42,,18_19.xlsx,18_19
+2019-06-21,SAÍDA,trimestralidade,467.39,,18_19.xlsx,18_19
+2019-06-21,SAÍDA,marketing,2598.14,,18_19.xlsx,18_19
+2019-06-28,SAÍDA,marketing,830.0,,18_19.xlsx,18_19
+2019-07-02,SAÍDA,taxa do banco,59.0,,18_19.xlsx,18_19
+2019-07-26,SAÍDA,marketing,2598.14,,18_19.xlsx,18_19
+2019-07-24,SAÍDA,tarifas excedentes,10.6,,18_19.xlsx,18_19
+2019-07-24,SAÍDA,tarifas excedentes,10.6,,18_19.xlsx,18_19
+2019-07-24,SAÍDA,custo de projeto,1529.2,Cliente 001,18_19.xlsx,18_19
+2019-08-02,SAÍDA,não categorizado,10.6,,18_19.xlsx,18_19
+2019-08-02,SAÍDA,imposto,199.36,,18_19.xlsx,18_19
+2019-08-02,SAÍDA,imposto,176.89,,18_19.xlsx,18_19
+2019-08-02,SAÍDA,projeto,1026.29,Cliente 001,18_19.xlsx,18_19
+2019-08-02,SAÍDA,não categorizado,59.0,,18_19.xlsx,18_19
+2019-08-07,SAÍDA,não categorizado,50.0,,18_19.xlsx,18_19
+2019-08-07,SAÍDA,não categorizado,50.0,,18_19.xlsx,18_19
+2019-08-07,SAÍDA,não categorizado,50.0,,18_19.xlsx,18_19
+2019-08-07,SAÍDA,não categorizado,50.0,,18_19.xlsx,18_19
+2019-08-07,SAÍDA,não categorizado,50.0,,18_19.xlsx,18_19
+2019-08-07,SAÍDA,custo de projeto,578.5,,18_19.xlsx,18_19
+2019-08-07,SAÍDA,não categorizado,50.0,,18_19.xlsx,18_19
+2019-08-12,SAÍDA,não categorizado,304.0,,18_19.xlsx,18_19
+2019-08-12,SAÍDA,não categorizado,46.6,,18_19.xlsx,18_19
+2019-08-13,SAÍDA,não categorizado,118.0,,18_19.xlsx,18_19
+2019-08-15,SAÍDA,custo de projeto,39.44,,18_19.xlsx,18_19
+2019-08-19,SAÍDA,contador,2495.0,,18_19.xlsx,18_19
+2019-08-19,SAÍDA,tarifas excedentes,10.6,,18_19.xlsx,18_19
+2019-08-19,SAÍDA,custo de projeto,1782.0,Cliente 001,18_19.xlsx,18_19
+2019-08-24,SAÍDA,custo de projeto,400.0,Cliente 001,18_19.xlsx,18_19
+2019-09-02,ENTRADA,projeto,580.0,Cliente 074,19_20.xlsx,19_20
+2019-09-02,ENTRADA,projeto,3400.0,Cliente 010,19_20.xlsx,19_20
+2019-09-06,ENTRADA,projeto,3919.18,Cliente 013,19_20.xlsx,19_20
+2019-09-09,ENTRADA,projeto,640.0,Cliente 046,19_20.xlsx,19_20
+2019-09-10,ENTRADA,projeto,320.0,Cliente 046,19_20.xlsx,19_20
+2019-09-11,ENTRADA,projeto,320.0,Cliente 046,19_20.xlsx,19_20
+2019-09-12,ENTRADA,rendimento automático,0.69,,19_20.xlsx,19_20
+2019-09-13,ENTRADA,rendimento automático,4.35,,19_20.xlsx,19_20
+2019-09-16,ENTRADA,rendimento automático,1.78,,19_20.xlsx,19_20
+2019-09-25,ENTRADA,rendimento automático,3.2,,19_20.xlsx,19_20
+2019-09-30,ENTRADA,rendimento automático,2.32,,19_20.xlsx,19_20
+2019-10-01,ENTRADA,rendimento automático,1.67,,19_20.xlsx,19_20
+2019-10-02,ENTRADA,rendimento automático,0.48,,19_20.xlsx,19_20
+2019-10-02,ENTRADA,taxa do banco,99.3,,19_20.xlsx,19_20
+2019-10-02,ENTRADA,taxa do banco,23.44,,19_20.xlsx,19_20
+2019-10-07,ENTRADA,rendimento automático,4.05,,19_20.xlsx,19_20
+2019-10-08,ENTRADA,rendimento automático,2.67,,19_20.xlsx,19_20
+2019-10-09,ENTRADA,projeto,850.0,Cliente 063,19_20.xlsx,19_20
+2019-10-10,ENTRADA,projeto,1220.0,Cliente 030,19_20.xlsx,19_20
+2019-10-10,ENTRADA,projeto,1220.0,Cliente 030,19_20.xlsx,19_20
+2019-10-11,ENTRADA,rendimento automático,6.06,,19_20.xlsx,19_20
+2019-10-14,ENTRADA,rendimento automático,21.84,,19_20.xlsx,19_20
+2019-10-15,ENTRADA,rendimento automático,5.86,,19_20.xlsx,19_20
+2019-10-16,ENTRADA,rendimento automático,0.25,,19_20.xlsx,19_20
+2019-10-18,ENTRADA,rendimento automático,10.7,,19_20.xlsx,19_20
+2019-10-21,ENTRADA,rendimento automático,6.62,,19_20.xlsx,19_20
+2019-10-22,ENTRADA,rendimento automático,0.69,,19_20.xlsx,19_20
+2019-10-25,ENTRADA,projeto,1266.97,Cliente 047,19_20.xlsx,19_20
+2019-10-28,ENTRADA,rendimento automático,1.29,,19_20.xlsx,19_20
+2019-10-29,ENTRADA,projeto,1000.0,Cliente 054,19_20.xlsx,19_20
+2019-10-31,ENTRADA,rendimento automático,2.61,,19_20.xlsx,19_20
+2019-11-01,ENTRADA,rendimento automático,0.41,,19_20.xlsx,19_20
+2019-11-04,ENTRADA,rendimento automático,6.48,,19_20.xlsx,19_20
+2019-11-06,ENTRADA,rendimento automático,3.51,,19_20.xlsx,19_20
+2019-11-07,ENTRADA,rendimento automático,0.65,,19_20.xlsx,19_20
+2019-11-11,ENTRADA,projeto,1220.0,Cliente 004,19_20.xlsx,19_20
+2019-11-12,ENTRADA,rendimento automático,0.93,,19_20.xlsx,19_20
+2019-11-13,ENTRADA,rendimento automático,0.07,,19_20.xlsx,19_20
+2019-11-13,ENTRADA,projeto,525.0,Cliente 078,19_20.xlsx,19_20
+2019-11-19,ENTRADA,projeto,584.2,Cliente 001,19_20.xlsx,19_20
+2019-11-14,ENTRADA,projeto,2587.6,Cliente 001,19_20.xlsx,19_20
+2019-11-14,ENTRADA,projeto,2250.0,Cliente 011,19_20.xlsx,19_20
+2019-11-22,ENTRADA,rendimento automático,0.55,,19_20.xlsx,19_20
+2019-11-25,ENTRADA,rendimento automático,0.61,,19_20.xlsx,19_20
+2019-11-26,ENTRADA,rendimento automático,6.31,,19_20.xlsx,19_20
+2019-11-27,ENTRADA,projeto,40.0,Cliente 098,19_20.xlsx,19_20
+2019-12-02,ENTRADA,projeto,1811.0,Cliente 037,19_20.xlsx,19_20
+2019-12-03,ENTRADA,rendimento automático,0.37,,19_20.xlsx,19_20
+2019-12-04,ENTRADA,projeto,522.0,Cliente 042,19_20.xlsx,19_20
+2019-12-04,ENTRADA,rendimento automático,2.87,,19_20.xlsx,19_20
+2019-12-11,ENTRADA,rendimento automático,4.16,,19_20.xlsx,19_20
+2019-12-17,ENTRADA,rendimento automático,0.85,,19_20.xlsx,19_20
+2019-12-18,ENTRADA,rendimento automático,1.81,,19_20.xlsx,19_20
+2019-12-20,ENTRADA,rendimento automático,0.54,,19_20.xlsx,19_20
+2019-12-26,ENTRADA,rendimento automático,1.31,,19_20.xlsx,19_20
+2019-12-30,ENTRADA,rendimento automático,3.38,,19_20.xlsx,19_20
+2020-01-06,ENTRADA,projeto,521.0,Cliente 042,19_20.xlsx,19_20
+2020-01-10,ENTRADA,projeto,2440.0,Cliente 004,19_20.xlsx,19_20
+2020-01-13,ENTRADA,rendimento automático,0.76,,19_20.xlsx,19_20
+2020-01-14,ENTRADA,rendimento automático,4.4,,19_20.xlsx,19_20
+2020-02-05,ENTRADA,projeto,521.0,Cliente 042,19_20.xlsx,19_20
+2020-02-10,ENTRADA,projeto,1220.0,Cliente 004,19_20.xlsx,19_20
+2020-02-11,ENTRADA,rendimento automático,0.86,,19_20.xlsx,19_20
+2020-02-12,ENTRADA,rendimento automático,3.8,,19_20.xlsx,19_20
+2020-02-14,ENTRADA,rendimento automático,0.34,,19_20.xlsx,19_20
+2020-02-28,ENTRADA,rendimento automático,4.91,,19_20.xlsx,19_20
+2020-03-03,ENTRADA,rendimento automático,2.88,,19_20.xlsx,19_20
+2020-03-04,ENTRADA,rendimento automático,3.87,,19_20.xlsx,19_20
+2020-03-06,ENTRADA,projeto,1762.42,Cliente 040,19_20.xlsx,19_20
+2020-03-06,ENTRADA,projeto,500.0,Cliente 035,19_20.xlsx,19_20
+2020-03-09,ENTRADA,rendimento automático,2.18,,19_20.xlsx,19_20
+2020-03-10,ENTRADA,projeto,1220.0,Cliente 004,19_20.xlsx,19_20
+2020-03-10,ENTRADA,projeto,2250.0,Cliente 011,19_20.xlsx,19_20
+2020-03-11,ENTRADA,rendimento automático,0.9,,19_20.xlsx,19_20
+2020-03-12,ENTRADA,rendimento automático,3.78,,19_20.xlsx,19_20
+2020-03-16,ENTRADA,projeto,2250.0,Cliente 011,19_20.xlsx,19_20
+2020-04-01,ENTRADA,rendimento automático,5.1,,19_20.xlsx,19_20
+2020-04-06,ENTRADA,projeto,500.0,Cliente 035,19_20.xlsx,19_20
+2020-04-08,ENTRADA,rendimento automático,1.17,,19_20.xlsx,19_20
+2020-04-13,ENTRADA,projeto,1220.0,Cliente 004,19_20.xlsx,19_20
+2020-04-14,ENTRADA,rendimento automático,0.94,,19_20.xlsx,19_20
+2020-04-22,ENTRADA,projeto,525.0,Cliente 079,19_20.xlsx,19_20
+2020-05-08,ENTRADA,projeto,500.0,Cliente 035,19_20.xlsx,19_20
+2020-05-11,ENTRADA,projeto,1220.0,Cliente 004,19_20.xlsx,19_20
+2020-05-12,ENTRADA,rendimento automático,6.16,,19_20.xlsx,19_20
+2020-05-13,ENTRADA,projeto,1022.47,Cliente 001,19_20.xlsx,19_20
+2020-05-15,ENTRADA,rendimento automático,0.38,,19_20.xlsx,19_20
+2020-05-20,ENTRADA,rendimento automático,1.35,,19_20.xlsx,19_20
+2020-05-21,ENTRADA,rendimento automático,0.32,,19_20.xlsx,19_20
+2020-05-27,ENTRADA,rendimento automático,0.2,,19_20.xlsx,19_20
+2020-05-28,ENTRADA,rendimento automático,4.32,,19_20.xlsx,19_20
+2020-05-29,ENTRADA,rendimento automático,3.2,,19_20.xlsx,19_20
+2020-06-01,ENTRADA,projeto,3450.0,Cliente 001,19_20.xlsx,19_20
+2020-06-01,ENTRADA,projeto,1591.2,Cliente 001,19_20.xlsx,19_20
+2020-06-02,ENTRADA,rendimento automático,0.56,,19_20.xlsx,19_20
+2020-06-04,ENTRADA,rendimento automático,4.58,,19_20.xlsx,19_20
+2020-06-08,ENTRADA,rendimento automático,1.37,,19_20.xlsx,19_20
+2020-06-10,ENTRADA,rendimento automático,3.72,,19_20.xlsx,19_20
+2020-06-12,ENTRADA,rendimento automático,1.05,,19_20.xlsx,19_20
+2020-06-16,ENTRADA,rendimento automático,6.35,,19_20.xlsx,19_20
+2020-06-29,ENTRADA,rendimento automático,4.32,,19_20.xlsx,19_20
+2020-07-01,ENTRADA,rendimento automático,4.8,,19_20.xlsx,19_20
+2020-07-02,ENTRADA,projeto,5109.8,Cliente 001,19_20.xlsx,19_20
+2020-07-02,ENTRADA,membro,292.0,,19_20.xlsx,19_20
+2020-07-03,ENTRADA,projeto,1220.0,Cliente 004,19_20.xlsx,19_20
+2020-07-06,ENTRADA,rendimento automático,41.28,,19_20.xlsx,19_20
+2020-07-13,ENTRADA,rendimento automático,1.08,,19_20.xlsx,19_20
+2020-07-14,ENTRADA,rendimento automático,4.58,,19_20.xlsx,19_20
+2020-07-20,ENTRADA,projeto,2144.25,Cliente 001,19_20.xlsx,19_20
+2020-07-29,ENTRADA,rendimento automático,2.2,,19_20.xlsx,19_20
+2020-08-04,ENTRADA,rendimento automático,5.58,,19_20.xlsx,19_20
+2020-08-05,ENTRADA,rendimento automático,1.61,,19_20.xlsx,19_20
+2020-08-11,ENTRADA,rendimento automático,2.3,,19_20.xlsx,19_20
+2020-08-13,ENTRADA,projeto,1977.15,Cliente 023,19_20.xlsx,19_20
+2020-08-13,ENTRADA,projeto,847.35,Cliente 023,19_20.xlsx,19_20
+2020-08-18,ENTRADA,rendimento automático,23.16,,19_20.xlsx,19_20
+2020-08-26,ENTRADA,rendimento automático,34.58,,19_20.xlsx,19_20
+2020-09-01,ENTRADA,rendimento automático,15.48,,19_20.xlsx,19_20
+2020-09-02,ENTRADA,rendimento automático,1.18,,19_20.xlsx,19_20
+2020-09-04,ENTRADA,rendimento automático,11.74,,19_20.xlsx,19_20
+2020-09-08,ENTRADA,rendimento automático,1.17,,19_20.xlsx,19_20
+2020-09-09,ENTRADA,rendimento automático,6.35,,19_20.xlsx,19_20
+2020-09-11,ENTRADA,rendimento automático,2.2,,19_20.xlsx,19_20
+2020-09-14,ENTRADA,rendimento automático,42.9,,19_20.xlsx,19_20
+2020-09-21,ENTRADA,rendimento automático,1.65,,19_20.xlsx,19_20
+2020-09-23,ENTRADA,rendimento automático,4.87,,19_20.xlsx,19_20
+2020-10-02,ENTRADA,projeto,400.0,Cliente 087,19_20.xlsx,19_20
+2020-10-07,ENTRADA,rendimento automático,9.97,,19_20.xlsx,19_20
+2020-10-14,ENTRADA,rendimento automático,2.26,,19_20.xlsx,19_20
+2020-10-16,ENTRADA,rendimento automático,0.75,,19_20.xlsx,19_20
+2020-10-19,ENTRADA,rendimento automático,1.08,,19_20.xlsx,19_20
+2020-10-29,ENTRADA,rendimento automático,85.08,,19_20.xlsx,19_20
+2020-11-04,ENTRADA,rendimento automático,9.93,,19_20.xlsx,19_20
+2020-11-11,ENTRADA,rendimento automático,1.92,,19_20.xlsx,19_20
+2020-11-17,ENTRADA,rendimento automático,0.62,,19_20.xlsx,19_20
+2020-11-24,ENTRADA,rendimento automático,16.67,,19_20.xlsx,19_20
+2020-12-02,ENTRADA,rendimento automático,1.06,,19_20.xlsx,19_20
+2020-12-08,ENTRADA,rendimento automático,17.22,,19_20.xlsx,19_20
+2020-12-09,ENTRADA,projeto,642.85,Cliente 020,19_20.xlsx,19_20
+2020-12-10,ENTRADA,projeto,8500.0,Cliente 006,19_20.xlsx,19_20
+2020-12-11,ENTRADA,rendimento automático,16.86,,19_20.xlsx,19_20
+2019-09-02,SAÍDA,contador,499.0,,19_20.xlsx,19_20
+2019-09-02,SAÍDA,membro,419.9,,19_20.xlsx,19_20
+2019-09-03,SAÍDA,taxa do banco,59.0,,19_20.xlsx,19_20
+2019-09-06,SAÍDA,mudança de diretoria,423.01,,19_20.xlsx,19_20
+2019-09-11,SAÍDA,taxa do banco,118.0,,19_20.xlsx,19_20
+2019-09-12,SAÍDA,mudança de diretoria,91.65,,19_20.xlsx,19_20
+2019-09-15,SAÍDA,sede,25.98,,19_20.xlsx,19_20
+2019-09-15,SAÍDA,sede,172.29,,19_20.xlsx,19_20
+2019-09-16,SAÍDA,custo de projeto,156.55,,19_20.xlsx,19_20
+2019-09-16,SAÍDA,sede,35.0,,19_20.xlsx,19_20
+2019-09-25,SAÍDA,projeto,400.0,Cliente 001,19_20.xlsx,19_20
+2019-10-01,SAÍDA,evento mej,23.44,,19_20.xlsx,19_20
+2019-10-01,SAÍDA,evento mej,42.81,,19_20.xlsx,19_20
+2019-10-01,SAÍDA,evento mej,99.3,,19_20.xlsx,19_20
+2019-10-01,SAÍDA,sede,83.9,,19_20.xlsx,19_20
+2019-10-01,SAÍDA,evento mej,19.13,,19_20.xlsx,19_20
+2019-10-01,SAÍDA,taxa do banco,10.6,,19_20.xlsx,19_20
+2019-10-01,SAÍDA,taxa do banco,10.6,,19_20.xlsx,19_20
+2019-10-01,SAÍDA,taxa do banco,10.6,,19_20.xlsx,19_20
+2019-10-01,SAÍDA,taxa do banco,10.6,,19_20.xlsx,19_20
+2019-10-01,SAÍDA,taxa do banco,10.6,,19_20.xlsx,19_20
+2019-10-02,SAÍDA,taxa do banco,59.0,,19_20.xlsx,19_20
+2019-10-06,SAÍDA,contador,499.0,,19_20.xlsx,19_20
+2019-10-08,SAÍDA,evento mej,23.44,,19_20.xlsx,19_20
+2019-10-08,SAÍDA,sede,132.8,,19_20.xlsx,19_20
+2019-10-11,SAÍDA,imersão,306.0,,19_20.xlsx,19_20
+2019-10-11,SAÍDA,trimestralidade,475.39,,19_20.xlsx,19_20
+2019-10-11,SAÍDA,taxa do banco,118.0,,19_20.xlsx,19_20
+2019-10-14,SAÍDA,imersão,3800.0,,19_20.xlsx,19_20
+2019-10-15,SAÍDA,imersão,1050.0,,19_20.xlsx,19_20
+2019-10-16,SAÍDA,imersão,44.56,,19_20.xlsx,19_20
+2019-10-20,SAÍDA,imersão,1050.0,,19_20.xlsx,19_20
+2019-10-28,SAÍDA,imersão,245.42,,19_20.xlsx,19_20
+2019-11-01,SAÍDA,contador,75.02,,19_20.xlsx,19_20
+2019-11-04,SAÍDA,custo de projeto,29.98,,19_20.xlsx,19_20
+2019-11-04,SAÍDA,custo de projeto,90.0,,19_20.xlsx,19_20
+2019-11-04,SAÍDA,projeto,260.85,,19_20.xlsx,19_20
+2019-11-04,SAÍDA,taxa do banco,59.0,,19_20.xlsx,19_20
+2019-11-06,SAÍDA,contador,509.96,,19_20.xlsx,19_20
+2019-11-06,SAÍDA,imposto,75.8,,19_20.xlsx,19_20
+2019-11-07,SAÍDA,sede,50.0,,19_20.xlsx,19_20
+2019-11-07,SAÍDA,capacitação,90.0,,19_20.xlsx,19_20
+2019-11-07,SAÍDA,evento mej,27.5,,19_20.xlsx,19_20
+2019-11-11,SAÍDA,evento mej,27.5,,19_20.xlsx,19_20
+2019-11-11,SAÍDA,custo de projeto,154.1,,19_20.xlsx,19_20
+2019-11-12,SAÍDA,sede,45.0,,19_20.xlsx,19_20
+2019-11-13,SAÍDA,taxa do banco,118.0,,19_20.xlsx,19_20
+2019-11-13,SAÍDA,evento mej,27.5,,19_20.xlsx,19_20
+2019-11-13,SAÍDA,evento mej,35.1,,19_20.xlsx,19_20
+2019-11-13,SAÍDA,marketing,475.0,,19_20.xlsx,19_20
+2019-11-22,SAÍDA,membro,22.99,,19_20.xlsx,19_20
+2019-11-22,SAÍDA,membro,50.54,,19_20.xlsx,19_20
+2019-11-22,SAÍDA,membro,17.5,,19_20.xlsx,19_20
+2019-11-26,SAÍDA,evento mej,33.51,,19_20.xlsx,19_20
+2019-11-26,SAÍDA,evento mej,27.5,,19_20.xlsx,19_20
+2019-11-26,SAÍDA,evento mej,78.95,,19_20.xlsx,19_20
+2019-11-26,SAÍDA,membro,917.0,,19_20.xlsx,19_20
+2019-12-02,SAÍDA,projeto,1022.47,Cliente 001,19_20.xlsx,19_20
+2019-12-03,SAÍDA,taxa do banco,59.0,,19_20.xlsx,19_20
+2019-12-03,SAÍDA,taxa do banco,2.2,Cliente 042,19_20.xlsx,19_20
+2019-12-04,SAÍDA,contador,998.0,,19_20.xlsx,19_20
+2019-12-11,SAÍDA,sede,550.0,,19_20.xlsx,19_20
+2019-12-11,SAÍDA,taxa do banco,118.0,,19_20.xlsx,19_20
+2019-12-17,SAÍDA,jurídico,134.52,,19_20.xlsx,19_20
+2019-12-18,SAÍDA,membro,171.7,,19_20.xlsx,19_20
+2019-12-18,SAÍDA,evento mej,69.3,,19_20.xlsx,19_20
+2019-12-18,SAÍDA,evento mej,27.5,,19_20.xlsx,19_20
+2019-12-18,SAÍDA,evento mej,27.5,,19_20.xlsx,19_20
+2019-12-20,SAÍDA,evento mej,27.5,,19_20.xlsx,19_20
+2019-12-20,SAÍDA,imposto,62.51,,19_20.xlsx,19_20
+2019-12-26,SAÍDA,jurídico,15.84,,19_20.xlsx,19_20
+2019-12-26,SAÍDA,marketing,198.78,,19_20.xlsx,19_20
+2019-12-30,SAÍDA,trimestralidade,561.39,,19_20.xlsx,19_20
+2020-01-03,SAÍDA,taxa do banco,59.0,,19_20.xlsx,19_20
+2020-01-05,SAÍDA,contador,499.0,,19_20.xlsx,19_20
+2020-01-13,SAÍDA,taxa do banco,118.0,,19_20.xlsx,19_20
+2020-01-14,SAÍDA,iss,234.53,,19_20.xlsx,19_20
+2020-01-14,SAÍDA,iss,57.99,,19_20.xlsx,19_20
+2020-01-14,SAÍDA,iss,323.49,,19_20.xlsx,19_20
+2020-01-14,SAÍDA,iss,57.8,,19_20.xlsx,19_20
+2020-01-14,SAÍDA,iss,3.52,,19_20.xlsx,19_20
+2020-02-03,SAÍDA,imposto,169.2,,19_20.xlsx,19_20
+2020-02-03,SAÍDA,custo de projeto,88.78,,19_20.xlsx,19_20
+2020-02-05,SAÍDA,taxa do banco,64.0,,19_20.xlsx,19_20
+2020-02-11,SAÍDA,taxa do banco,118.0,,19_20.xlsx,19_20
+2020-02-12,SAÍDA,contador,519.5,,19_20.xlsx,19_20
+2020-02-14,SAÍDA,membro,47.02,,19_20.xlsx,19_20
+2020-02-28,SAÍDA,membro,485.1,,19_20.xlsx,19_20
+2020-02-28,SAÍDA,custo de projeto,88.78,Cliente 042,19_20.xlsx,19_20
+2020-02-28,SAÍDA,custo de projeto,88.78,,19_20.xlsx,19_20
+2020-03-03,SAÍDA,taxa do banco,64.0,,19_20.xlsx,19_20
+2020-03-03,SAÍDA,custo de projeto,324.0,,19_20.xlsx,19_20
+2020-03-04,SAÍDA,contador,522.5,,19_20.xlsx,19_20
+2020-03-09,SAÍDA,sede,289.9,,19_20.xlsx,19_20
+2020-03-10,SAÍDA,sede,200.48,,19_20.xlsx,19_20
+2020-03-11,SAÍDA,taxa do banco,118.0,,19_20.xlsx,19_20
+2020-03-12,SAÍDA,evento mej,229.55,,19_20.xlsx,19_20
+2020-03-12,SAÍDA,evento mej,266.0,,19_20.xlsx,19_20
+2020-04-01,SAÍDA,contador,522.5,,19_20.xlsx,19_20
+2020-04-01,SAÍDA,iss,48.42,,19_20.xlsx,19_20
+2020-04-01,SAÍDA,iss,15.0,,19_20.xlsx,19_20
+2020-04-01,SAÍDA,taxa do banco,64.0,,19_20.xlsx,19_20
+2020-04-06,SAÍDA,evento mej,292.0,,19_20.xlsx,19_20
+2020-04-08,SAÍDA,custo de projeto,150.0,,19_20.xlsx,19_20
+2020-04-14,SAÍDA,taxa do banco,118.0,,19_20.xlsx,19_20
+2020-04-20,SAÍDA,custo de projeto,160.15,Cliente 001,19_20.xlsx,19_20
+2020-04-20,SAÍDA,sede,129.0,,19_20.xlsx,19_20
+2020-04-30,SAÍDA,imposto,155.9,,19_20.xlsx,19_20
+2020-04-30,SAÍDA,custo de projeto,594.64,,19_20.xlsx,19_20
+2020-04-30,SAÍDA,contador,522.5,,19_20.xlsx,19_20
+2020-05-05,SAÍDA,imposto,48.8,,19_20.xlsx,19_20
+2020-05-11,SAÍDA,sede,193.8,,19_20.xlsx,19_20
+2020-05-12,SAÍDA,capacitação,198.38,,19_20.xlsx,19_20
+2020-05-12,SAÍDA,trimestralidade,424.39,,19_20.xlsx,19_20
+2020-05-12,SAÍDA,taxa do banco,118.0,,19_20.xlsx,19_20
+2020-05-15,SAÍDA,capacitação,44.9,,19_20.xlsx,19_20
+2020-05-20,SAÍDA,contador,159.0,,19_20.xlsx,19_20
+2020-05-21,SAÍDA,membro,36.9,,19_20.xlsx,19_20
+2020-05-27,SAÍDA,capacitação,23.99,,19_20.xlsx,19_20
+2020-05-28,SAÍDA,capacitação,500.0,,19_20.xlsx,19_20
+2020-05-29,SAÍDA,contador,350.0,,19_20.xlsx,19_20
+2020-06-01,SAÍDA,custo de projeto,1500.0,Cliente 001,19_20.xlsx,19_20
+2020-06-01,SAÍDA,taxa do banco,10.6,,19_20.xlsx,19_20
+2020-06-01,SAÍDA,custo de projeto,1500.0,Cliente 001,19_20.xlsx,19_20
+2020-06-02,SAÍDA,taxa do banco,64.0,,19_20.xlsx,19_20
+2020-06-04,SAÍDA,contador,522.5,,19_20.xlsx,19_20
+2020-06-08,SAÍDA,iss,155.6,,19_20.xlsx,19_20
+2020-06-12,SAÍDA,taxa do banco,118.0,,19_20.xlsx,19_20
+2020-06-16,SAÍDA,marketing,708.92,,19_20.xlsx,19_20
+2020-06-29,SAÍDA,trimestralidade,471.39,,19_20.xlsx,19_20
+2020-07-01,SAÍDA,contador,522.5,,19_20.xlsx,19_20
+2020-07-02,SAÍDA,taxa do banco,64.0,,19_20.xlsx,19_20
+2020-07-03,SAÍDA,iss,102.19,,19_20.xlsx,19_20
+2020-07-06,SAÍDA,custo de projeto,2210.04,Cliente 001,19_20.xlsx,19_20
+2020-07-06,SAÍDA,custo de projeto,2295.72,Cliente 001,19_20.xlsx,19_20
+2020-07-06,SAÍDA,taxa do banco,10.6,,19_20.xlsx,19_20
+2020-07-13,SAÍDA,taxa do banco,118.0,,19_20.xlsx,19_20
+2020-07-29,SAÍDA,custo de projeto,233.94,,19_20.xlsx,19_20
+2020-08-04,SAÍDA,contador,522.5,,19_20.xlsx,19_20
+2020-08-04,SAÍDA,taxa do banco,64.0,,19_20.xlsx,19_20
+2020-08-05,SAÍDA,iss,169.28,,19_20.xlsx,19_20
+2020-08-11,SAÍDA,taxa do banco,118.0,,19_20.xlsx,19_20
+2020-08-18,SAÍDA,custo de projeto,120.0,,19_20.xlsx,19_20
+2020-08-18,SAÍDA,capacitação,69.99,,19_20.xlsx,19_20
+2020-08-18,SAÍDA,custo de projeto,200.0,Cliente 023,19_20.xlsx,19_20
+2020-08-18,SAÍDA,custo de projeto,800.0,Cliente 023,19_20.xlsx,19_20
+2020-08-26,SAÍDA,custo de projeto,1069.8,Cliente 001,19_20.xlsx,19_20
+2020-08-26,SAÍDA,custo de projeto,978.8,Cliente 001,19_20.xlsx,19_20
+2020-08-26,SAÍDA,taxa do banco,10.6,,19_20.xlsx,19_20
+2020-09-01,SAÍDA,contador,522.5,,19_20.xlsx,19_20
+2020-09-01,SAÍDA,membro,314.5,,19_20.xlsx,19_20
+2020-09-02,SAÍDA,taxa do banco,64.0,,19_20.xlsx,19_20
+2020-09-04,SAÍDA,custo de projeto,192.0,,19_20.xlsx,19_20
+2020-09-04,SAÍDA,membro,314.5,,19_20.xlsx,19_20
+2020-09-04,SAÍDA,custo de projeto,124.5,,19_20.xlsx,19_20
+2020-09-08,SAÍDA,imposto,62.4,,19_20.xlsx,19_20
+2020-09-09,SAÍDA,membro,340.0,,19_20.xlsx,19_20
+2020-09-11,SAÍDA,taxa do banco,118.0,,19_20.xlsx,19_20
+2020-09-14,SAÍDA,sede,2319.2,,19_20.xlsx,19_20
+2020-09-21,SAÍDA,custo de projeto,88.78,,19_20.xlsx,19_20
+2020-09-23,SAÍDA,mudança de diretoria,260.3,,19_20.xlsx,19_20
+2020-10-02,SAÍDA,taxa do banco,64.0,,19_20.xlsx,19_20
+2020-10-07,SAÍDA,contador,522.5,,19_20.xlsx,19_20
+2020-10-13,SAÍDA,custo de projeto,185.76,,19_20.xlsx,19_20
+2020-10-14,SAÍDA,taxa do banco,118.0,,19_20.xlsx,19_20
+2020-10-16,SAÍDA,custo de projeto,38.9,,19_20.xlsx,19_20
+2020-10-29,SAÍDA,jurídico,4800.0,,19_20.xlsx,19_20
+2020-11-04,SAÍDA,contador,522.5,,19_20.xlsx,19_20
+2020-11-04,SAÍDA,sede,21.86,,19_20.xlsx,19_20
+2020-11-04,SAÍDA,taxa do banco,64.0,,19_20.xlsx,19_20
+2020-11-11,SAÍDA,taxa do banco,118.0,,19_20.xlsx,19_20
+2020-11-17,SAÍDA,não categorizado,37.9,,19_20.xlsx,19_20
+2020-11-24,SAÍDA,custo de projeto,1006.92,,19_20.xlsx,19_20
+2020-12-02,SAÍDA,taxa do banco,64.0,,19_20.xlsx,19_20
+2020-12-08,SAÍDA,contador,1045.0,,19_20.xlsx,19_20
+2020-12-11,SAÍDA,trimestralidade,941.17,,19_20.xlsx,19_20
+2020-12-11,SAÍDA,taxa do banco,118.0,,19_20.xlsx,19_20
+2020-12-17,SAÍDA,membro,968.34,,19_20.xlsx,19_20
+2021-01-21,ENTRADA,rendimento automático,5.8,,20_21.xlsx,20_21
+2021-02-02,ENTRADA,projeto,600.0,Cliente 026,20_21.xlsx,20_21
+2021-02-02,ENTRADA,rendimento automático,1.16,,20_21.xlsx,20_21
+2021-02-06,ENTRADA,projeto,1425.0,Cliente 044,20_21.xlsx,20_21
+2021-02-08,ENTRADA,rendimento automático,4.62,,20_21.xlsx,20_21
+2021-02-11,ENTRADA,rendimento automático,2.02,,20_21.xlsx,20_21
+2021-02-18,ENTRADA,projeto,400.0,Cliente 088,20_21.xlsx,20_21
+2021-02-18,ENTRADA,rendimento automático,1.18,,20_21.xlsx,20_21
+2021-02-28,ENTRADA,projeto,300.0,Cliente 026,20_21.xlsx,20_21
+2021-03-02,ENTRADA,rendimento automático,4.35,,20_21.xlsx,20_21
+2021-03-04,ENTRADA,rendimento automático,18.34,,20_21.xlsx,20_21
+2021-03-11,ENTRADA,rendimento automático,2.09,,20_21.xlsx,20_21
+2021-03-16,ENTRADA,rendimento automático,1.04,,20_21.xlsx,20_21
+2021-03-18,ENTRADA,rendimento automático,7.86,,20_21.xlsx,20_21
+2021-03-29,ENTRADA,rendimento automático,3.13,,20_21.xlsx,20_21
+2021-03-30,ENTRADA,rendimento automático,3.44,,20_21.xlsx,20_21
+2021-03-31,ENTRADA,projeto,300.0,Cliente 026,20_21.xlsx,20_21
+2021-04-06,ENTRADA,projeto,1081.87,Cliente 014,20_21.xlsx,20_21
+2021-04-05,ENTRADA,rendimento automático,10.64,,20_21.xlsx,20_21
+2021-04-12,ENTRADA,rendimento automático,4.2,,20_21.xlsx,20_21
+2021-04-13,ENTRADA,rendimento automático,2.12,,20_21.xlsx,20_21
+2021-04-15,ENTRADA,projeto,642.85,Cliente 020,20_21.xlsx,20_21
+2021-04-20,ENTRADA,rendimento automático,2.67,,20_21.xlsx,20_21
+2021-04-27,ENTRADA,rendimento automático,7.87,,20_21.xlsx,20_21
+2021-04-29,ENTRADA,rendimento automático,3.67,,20_21.xlsx,20_21
+2021-05-05,ENTRADA,projeto,315.39,Cliente 026,20_21.xlsx,20_21
+2021-05-04,ENTRADA,projeto,1081.87,Cliente 014,20_21.xlsx,20_21
+2021-05-03,ENTRADA,rendimento automático,5.41,,20_21.xlsx,20_21
+2021-05-04,ENTRADA,rendimento automático,1.13,,20_21.xlsx,20_21
+2021-05-05,ENTRADA,rendimento automático,8.56,,20_21.xlsx,20_21
+2021-05-06,ENTRADA,rendimento automático,20.56,,20_21.xlsx,20_21
+2021-05-11,ENTRADA,rendimento automático,1.79,,20_21.xlsx,20_21
+2021-05-12,ENTRADA,rendimento automático,22.21,,20_21.xlsx,20_21
+2021-05-14,ENTRADA,rendimento automático,6.54,,20_21.xlsx,20_21
+2021-05-17,ENTRADA,rendimento automático,1.58,,20_21.xlsx,20_21
+2021-05-18,ENTRADA,rendimento automático,9.11,,20_21.xlsx,20_21
+2021-06-01,ENTRADA,projeto,300.0,Cliente 026,20_21.xlsx,20_21
+2021-06-02,ENTRADA,rendimento automático,1.0,,20_21.xlsx,20_21
+2021-06-11,ENTRADA,rendimento automático,1.77,,20_21.xlsx,20_21
+2021-06-15,ENTRADA,projeto,1081.87,Cliente 014,20_21.xlsx,20_21
+2021-06-16,ENTRADA,projeto,200.0,Cliente 094,20_21.xlsx,20_21
+2021-06-18,ENTRADA,projeto,70.0,Cliente 096,20_21.xlsx,20_21
+2021-06-24,ENTRADA,projeto,2571.45,Cliente 020,20_21.xlsx,20_21
+2021-06-24,ENTRADA,projeto,1104.95,Cliente 003,20_21.xlsx,20_21
+2021-06-26,ENTRADA,projeto,345.0,Cliente 069,20_21.xlsx,20_21
+2021-07-02,ENTRADA,rendimento automático,1.11,,20_21.xlsx,20_21
+2021-07-02,ENTRADA,projeto,400.0,Cliente 064,20_21.xlsx,20_21
+2021-07-06,ENTRADA,projeto,315.49,Cliente 089,20_21.xlsx,20_21
+2021-07-07,ENTRADA,projeto,500.0,Cliente 082,20_21.xlsx,20_21
+2021-07-09,ENTRADA,projeto,1138.84,Cliente 014,20_21.xlsx,20_21
+2021-07-13,ENTRADA,rendimento automático,1.97,,20_21.xlsx,20_21
+2021-07-17,ENTRADA,projeto,1050.0,Cliente 003,20_21.xlsx,20_21
+2021-07-17,ENTRADA,projeto,2350.0,Cliente 018,20_21.xlsx,20_21
+2021-07-20,ENTRADA,projeto,2350.0,Cliente 018,20_21.xlsx,20_21
+2021-07-20,ENTRADA,projeto,524.7,,20_21.xlsx,20_21
+2021-07-31,ENTRADA,projeto,300.0,Cliente 026,20_21.xlsx,20_21
+2021-08-03,ENTRADA,rendimento automático,1.34,,20_21.xlsx,20_21
+2021-08-05,ENTRADA,projeto,450.0,Cliente 085,20_21.xlsx,20_21
+2021-08-10,ENTRADA,projeto,1137.4,Cliente 014,20_21.xlsx,20_21
+2021-08-10,ENTRADA,projeto,400.0,Cliente 064,20_21.xlsx,20_21
+2021-08-13,ENTRADA,projeto,4902.0,Cliente 015,20_21.xlsx,20_21
+2021-08-17,ENTRADA,projeto,345.0,Cliente 069,20_21.xlsx,20_21
+2021-08-26,ENTRADA,projeto,500.0,Cliente 080,20_21.xlsx,20_21
+2021-09-07,ENTRADA,projeto,315.69,Cliente 026,20_21.xlsx,20_21
+2021-10-02,ENTRADA,projeto,300.0,Cliente 092,20_21.xlsx,20_21
+2021-10-04,ENTRADA,rendimento automático,1.65,,20_21.xlsx,20_21
+2021-10-08,ENTRADA,projeto,315.69,Cliente 026,20_21.xlsx,20_21
+2021-10-13,ENTRADA,rendimento automático,2.69,,20_21.xlsx,20_21
+2021-10-15,ENTRADA,projeto,664.05,Cliente 070,20_21.xlsx,20_21
+2021-10-20,ENTRADA,projeto,300.0,Cliente 067,20_21.xlsx,20_21
+2021-11-03,ENTRADA,rendimento automático,1.83,,20_21.xlsx,20_21
+2021-11-06,ENTRADA,projeto,420.0,Cliente 086,20_21.xlsx,20_21
+2021-11-09,ENTRADA,projeto,4786.35,Cliente 017,20_21.xlsx,20_21
+2021-11-11,ENTRADA,rendimento automático,2.97,,20_21.xlsx,20_21
+2021-11-11,ENTRADA,projeto,200.0,Cliente 067,20_21.xlsx,20_21
+2021-12-02,ENTRADA,rendimento automático,2.03,,20_21.xlsx,20_21
+2021-12-13,ENTRADA,rendimento automático,3.33,,20_21.xlsx,20_21
+2021-12-21,ENTRADA,projeto,200.0,Cliente 067,20_21.xlsx,20_21
+2021-01-21,SAÍDA,projeto,349.28,,20_21.xlsx,20_21
+2021-02-02,SAÍDA,taxa do banco,2.39,Cliente 026,20_21.xlsx,20_21
+2021-02-02,SAÍDA,taxa do banco,69.0,,20_21.xlsx,20_21
+2021-02-06,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-02-08,SAÍDA,mudança de diretoria,272.46,,20_21.xlsx,20_21
+2021-02-11,SAÍDA,taxa do banco,118.0,,20_21.xlsx,20_21
+2021-02-18,SAÍDA,projeto,68.9,,20_21.xlsx,20_21
+2021-02-18,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-02-28,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-03-02,SAÍDA,membro,180.0,,20_21.xlsx,20_21
+2021-03-02,SAÍDA,taxa do banco,69.0,,20_21.xlsx,20_21
+2021-03-04,SAÍDA,contador,1045.0,,20_21.xlsx,20_21
+2021-03-11,SAÍDA,taxa do banco,118.0,,20_21.xlsx,20_21
+2021-03-16,SAÍDA,capacitação,22.9,,20_21.xlsx,20_21
+2021-03-16,SAÍDA,capacitação,34.89,,20_21.xlsx,20_21
+2021-03-29,SAÍDA,trimestralidade,171.5,,20_21.xlsx,20_21
+2021-03-30,SAÍDA,capacitação,164.45,,20_21.xlsx,20_21
+2021-03-30,SAÍDA,capacitação,22.9,,20_21.xlsx,20_21
+2021-03-31,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-04-06,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-04-05,SAÍDA,contador,522.5,,20_21.xlsx,20_21
+2021-04-05,SAÍDA,taxa do banco,69.0,,20_21.xlsx,20_21
+2021-04-12,SAÍDA,jurídico,235.0,,20_21.xlsx,20_21
+2021-04-13,SAÍDA,taxa do banco,118.0,,20_21.xlsx,20_21
+2021-04-20,SAÍDA,capacitação,149.41,,20_21.xlsx,20_21
+2021-04-27,SAÍDA,imposto,162.5,,20_21.xlsx,20_21
+2021-04-27,SAÍDA,custo de projeto,327.5,Cliente 014,20_21.xlsx,20_21
+2021-04-29,SAÍDA,mudança de diretoria,146.74,,20_21.xlsx,20_21
+2021-04-29,SAÍDA,capacitação,79.81,,20_21.xlsx,20_21
+2021-05-05,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-05-04,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-05-03,SAÍDA,custo de projeto,332.18,,20_21.xlsx,20_21
+2021-05-04,SAÍDA,taxa do banco,69.0,,20_21.xlsx,20_21
+2021-05-05,SAÍDA,contador,522.5,,20_21.xlsx,20_21
+2021-05-06,SAÍDA,imersão,1290.0,,20_21.xlsx,20_21
+2021-05-11,SAÍDA,taxa do banco,118.0,,20_21.xlsx,20_21
+2021-05-12,SAÍDA,imersão,1494.0,,20_21.xlsx,20_21
+2021-05-14,SAÍDA,evento mej,476.0,,20_21.xlsx,20_21
+2021-05-17,SAÍDA,imersão,114.3,,20_21.xlsx,20_21
+2021-05-18,SAÍDA,imersão,657.5,,20_21.xlsx,20_21
+2021-05-26,SAÍDA,imersão,41.6,,20_21.xlsx,20_21
+2021-05-26,SAÍDA,custo de projeto,35.0,,20_21.xlsx,20_21
+2021-05-26,SAÍDA,imersão,57.35,,20_21.xlsx,20_21
+2021-05-26,SAÍDA,imersão,75.09,,20_21.xlsx,20_21
+2021-05-26,SAÍDA,capacitação,30.0,,20_21.xlsx,20_21
+2021-05-27,SAÍDA,imersão,121.92,,20_21.xlsx,20_21
+2021-05-27,SAÍDA,imersão,110.42,,20_21.xlsx,20_21
+2021-05-28,SAÍDA,imersão,108.67,,20_21.xlsx,20_21
+2021-05-28,SAÍDA,jurídico,132.75,,20_21.xlsx,20_21
+2021-05-28,SAÍDA,custo de projeto,37.03,,20_21.xlsx,20_21
+2021-05-28,SAÍDA,capacitação,30.0,,20_21.xlsx,20_21
+2021-05-28,SAÍDA,imersão,30.0,,20_21.xlsx,20_21
+2021-05-28,SAÍDA,membro,34.0,,20_21.xlsx,20_21
+2021-05-31,SAÍDA,imersão,10.0,,20_21.xlsx,20_21
+2021-05-31,SAÍDA,imersão,50.0,,20_21.xlsx,20_21
+2021-05-31,SAÍDA,capacitação,22.9,,20_21.xlsx,20_21
+2021-06-01,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-06-02,SAÍDA,capacitação,299.99,,20_21.xlsx,20_21
+2021-06-02,SAÍDA,taxa do banco,69.0,,20_21.xlsx,20_21
+2021-06-10,SAÍDA,iss,176.8,Cliente 006,20_21.xlsx,20_21
+2021-06-10,SAÍDA,taxa do banco,1.0,,20_21.xlsx,20_21
+2021-06-11,SAÍDA,contador,522.5,,20_21.xlsx,20_21
+2021-06-13,SAÍDA,custo de projeto,327.5,Cliente 014,20_21.xlsx,20_21
+2021-06-11,SAÍDA,taxa do banco,118.0,,20_21.xlsx,20_21
+2021-06-15,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-06-16,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-06-18,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-06-21,SAÍDA,jurídico,110.0,,20_21.xlsx,20_21
+2021-06-24,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-06-26,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-07-01,SAÍDA,membro,47.5,,20_21.xlsx,20_21
+2021-07-02,SAÍDA,taxa do banco,69.0,,20_21.xlsx,20_21
+2021-07-02,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-07-02,SAÍDA,contador,522.5,,20_21.xlsx,20_21
+2021-07-06,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-07-06,SAÍDA,trimestralidade,171.5,,20_21.xlsx,20_21
+2021-07-09,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-07-10,SAÍDA,custo de projeto,62.48,,20_21.xlsx,20_21
+2021-07-13,SAÍDA,taxa do banco,118.0,,20_21.xlsx,20_21
+2021-07-17,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-07-17,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-07-19,SAÍDA,custo de projeto,207.0,Cliente 064,20_21.xlsx,20_21
+2021-07-20,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-07-21,SAÍDA,custo de projeto,579.86,,20_21.xlsx,20_21
+2021-07-31,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-08-02,SAÍDA,contador,522.5,,20_21.xlsx,20_21
+2021-08-02,SAÍDA,membro,300.0,,20_21.xlsx,20_21
+2021-08-02,SAÍDA,iss,42.0,Cliente 020,20_21.xlsx,20_21
+2021-08-02,SAÍDA,taxa do banco,1.0,,20_21.xlsx,20_21
+2021-08-03,SAÍDA,custo de projeto,235.09,,20_21.xlsx,20_21
+2021-08-03,SAÍDA,taxa do banco,75.0,,20_21.xlsx,20_21
+2021-08-05,SAÍDA,membro,300.0,,20_21.xlsx,20_21
+2021-08-08,SAÍDA,sede,75.78,,20_21.xlsx,20_21
+2021-08-09,SAÍDA,custo de projeto,124.69,,20_21.xlsx,20_21
+2021-08-10,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-08-10,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-08-12,SAÍDA,custo de projeto,671.9,,20_21.xlsx,20_21
+2021-08-13,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-08-15,SAÍDA,sede,34.66,,20_21.xlsx,20_21
+2021-08-17,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-08-17,SAÍDA,sede,250.0,,20_21.xlsx,20_21
+2021-08-20,SAÍDA,custo de projeto,85.0,,20_21.xlsx,20_21
+2021-08-23,SAÍDA,custo de projeto,68.99,,20_21.xlsx,20_21
+2021-08-23,SAÍDA,custo de projeto,68.92,,20_21.xlsx,20_21
+2021-08-26,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-08-27,SAÍDA,membro,265.0,,20_21.xlsx,20_21
+2021-08-30,SAÍDA,sede,498.64,,20_21.xlsx,20_21
+2021-08-30,SAÍDA,membro,37.46,,20_21.xlsx,20_21
+2021-08-30,SAÍDA,custo de projeto,101.94,,20_21.xlsx,20_21
+2021-08-30,SAÍDA,custo de projeto,65.93,,20_21.xlsx,20_21
+2021-09-03,SAÍDA,contador,522.5,,20_21.xlsx,20_21
+2021-09-07,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-09-13,SAÍDA,custo de projeto,85.0,,20_21.xlsx,20_21
+2021-09-15,SAÍDA,custo de projeto,72.81,,20_21.xlsx,20_21
+2021-09-24,SAÍDA,membro,300.0,,20_21.xlsx,20_21
+2021-09-24,SAÍDA,custo de projeto,85.0,,20_21.xlsx,20_21
+2021-09-27,SAÍDA,jurídico,50.0,,20_21.xlsx,20_21
+2021-10-02,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-10-04,SAÍDA,contador,522.5,,20_21.xlsx,20_21
+2021-10-04,SAÍDA,taxa do banco,1.0,,20_21.xlsx,20_21
+2021-10-04,SAÍDA,taxa do banco,75.0,,20_21.xlsx,20_21
+2021-10-04,SAÍDA,trimestralidade,171.5,,20_21.xlsx,20_21
+2021-10-04,SAÍDA,imposto,116.64,,20_21.xlsx,20_21
+2021-10-05,SAÍDA,sede,29.69,,20_21.xlsx,20_21
+2021-10-07,SAÍDA,membro,300.0,,20_21.xlsx,20_21
+2021-10-08,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-10-11,SAÍDA,custo de projeto,94.0,,20_21.xlsx,20_21
+2021-10-13,SAÍDA,taxa do banco,118.0,,20_21.xlsx,20_21
+2021-10-14,SAÍDA,membro,250.0,,20_21.xlsx,20_21
+2021-10-15,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-10-15,SAÍDA,custo de projeto,264.05,Cliente 070,20_21.xlsx,20_21
+2021-10-18,SAÍDA,imersão,3600.0,,20_21.xlsx,20_21
+2021-10-18,SAÍDA,imersão,2500.0,,20_21.xlsx,20_21
+2021-10-18,SAÍDA,imersão,2400.0,,20_21.xlsx,20_21
+2021-10-18,SAÍDA,membro,75.0,,20_21.xlsx,20_21
+2021-10-20,SAÍDA,imersão,500.0,,20_21.xlsx,20_21
+2021-10-20,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-10-21,SAÍDA,imersão,500.0,,20_21.xlsx,20_21
+2021-10-21,SAÍDA,imersão,700.0,,20_21.xlsx,20_21
+2021-11-03,SAÍDA,imersão,180.0,,20_21.xlsx,20_21
+2021-11-03,SAÍDA,taxa do banco,1.0,,20_21.xlsx,20_21
+2021-11-03,SAÍDA,taxa do banco,75.0,,20_21.xlsx,20_21
+2021-11-04,SAÍDA,contador,522.5,,20_21.xlsx,20_21
+2021-11-04,SAÍDA,iss,102.0,,20_21.xlsx,20_21
+2021-11-06,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-11-09,SAÍDA,taxa do banco,118.0,,20_21.xlsx,20_21
+2021-11-11,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2021-11-12,SAÍDA,custo de projeto,150.0,,20_21.xlsx,20_21
+2021-11-22,SAÍDA,sede,29.69,,20_21.xlsx,20_21
+2021-11-26,SAÍDA,membro,300.0,,20_21.xlsx,20_21
+2021-12-01,SAÍDA,custo de projeto,233.94,,20_21.xlsx,20_21
+2021-12-02,SAÍDA,taxa do banco,75.0,,20_21.xlsx,20_21
+2021-12-03,SAÍDA,membro,100.0,,20_21.xlsx,20_21
+2021-12-03,SAÍDA,contador,1045.0,,20_21.xlsx,20_21
+2021-12-10,SAÍDA,sede,138.9,,20_21.xlsx,20_21
+2021-12-13,SAÍDA,taxa do banco,118.0,,20_21.xlsx,20_21
+2021-12-17,SAÍDA,membro,330.19,,20_21.xlsx,20_21
+2021-12-17,SAÍDA,trimestralidade,171.5,,20_21.xlsx,20_21
+2021-12-21,SAÍDA,sede,29.69,,20_21.xlsx,20_21
+2021-12-21,SAÍDA,taxa do banco,2.39,,20_21.xlsx,20_21
+2022-01-29,ENTRADA,projeto,4000.0,Cliente 019,22.xlsx,22
+2022-05-04,ENTRADA,projeto,1200.0,Cliente 050,22.xlsx,22
+2022-08-10,ENTRADA,projeto,2820.0,Cliente 024,22.xlsx,22
+2022-10-05,ENTRADA,projeto,6500.0,Cliente 012,22.xlsx,22
+2022-01-18,SAÍDA,servidor,35.85,,22.xlsx,22
+2022-01-28,SAÍDA,projeto,1000.0,,22.xlsx,22
+2022-01-29,SAÍDA,taxa do banco,2.39,,22.xlsx,22
+2022-01-31,SAÍDA,contador,230.0,,22.xlsx,22
+2022-02-07,SAÍDA,imersão,299.81,,22.xlsx,22
+2022-02-07,SAÍDA,projeto,100.0,,22.xlsx,22
+2022-02-15,SAÍDA,capacitação,300.0,,22.xlsx,22
+2022-02-16,SAÍDA,servidor,35.85,,22.xlsx,22
+2022-02-21,SAÍDA,contador,522.5,,22.xlsx,22
+2022-02-21,SAÍDA,membro,97.94,,22.xlsx,22
+2022-03-01,SAÍDA,projeto,500.0,,22.xlsx,22
+2022-03-06,SAÍDA,membro,101.6,,22.xlsx,22
+2022-03-07,SAÍDA,membro,122.7,,22.xlsx,22
+2022-03-15,SAÍDA,evento mej,82.5,,22.xlsx,22
+2022-03-15,SAÍDA,servidor,35.85,,22.xlsx,22
+2022-03-15,SAÍDA,imposto,86.4,,22.xlsx,22
+2022-03-17,SAÍDA,contador,230.0,,22.xlsx,22
+2022-03-20,SAÍDA,evento mej,60.0,,22.xlsx,22
+2022-03-26,SAÍDA,jurídico,7.2,,22.xlsx,22
+2022-03-26,SAÍDA,projeto,89.98,,22.xlsx,22
+2022-03-26,SAÍDA,projeto,287.28,,22.xlsx,22
+2022-03-26,SAÍDA,projeto,435.97,,22.xlsx,22
+2022-03-28,SAÍDA,membro,90.0,,22.xlsx,22
+2022-04-02,SAÍDA,projeto,79.6,,22.xlsx,22
+2022-04-02,SAÍDA,projeto,420.4,,22.xlsx,22
+2022-04-11,SAÍDA,contador,230.0,,22.xlsx,22
+2022-04-18,SAÍDA,servidor,35.85,,22.xlsx,22
+2022-05-10,SAÍDA,sede,29.79,,22.xlsx,22
+2022-05-10,SAÍDA,membro,34.9,,22.xlsx,22
+2022-05-13,SAÍDA,servidor,35.85,,22.xlsx,22
+2022-05-19,SAÍDA,imersão,477.0,,22.xlsx,22
+2022-05-19,SAÍDA,contador,230.0,,22.xlsx,22
+2022-05-24,SAÍDA,imersão,530.0,,22.xlsx,22
+2022-05-28,SAÍDA,imersão,1528.8,,22.xlsx,22
+2022-05-30,SAÍDA,imersão,2700.0,,22.xlsx,22
+2022-05-31,SAÍDA,sede,61.4,,22.xlsx,22
+2022-05-31,SAÍDA,sede,18.88,,22.xlsx,22
+2022-06-03,SAÍDA,imersão,1691.64,,22.xlsx,22
+2022-06-05,SAÍDA,imersão,1528.8,,22.xlsx,22
+2022-07-08,SAÍDA,custo de projeto,750.0,,22.xlsx,22
+2022-07-08,SAÍDA,contador,230.0,,22.xlsx,22
+2022-07-13,SAÍDA,servidor,35.85,,22.xlsx,22
+2022-08-03,SAÍDA,custo de projeto,760.15,,22.xlsx,22
+2022-08-11,SAÍDA,custo de projeto,1333.33,,22.xlsx,22
+2022-08-12,SAÍDA,membro,214.6,,22.xlsx,22
+2022-08-12,SAÍDA,membro,211.6,,22.xlsx,22
+2022-08-12,SAÍDA,membro,105.0,,22.xlsx,22
+2022-08-12,SAÍDA,custo de projeto,33.5,,22.xlsx,22
+2022-08-12,SAÍDA,contador,230.0,,22.xlsx,22
+2022-08-16,SAÍDA,trimestralidade,700.0,,22.xlsx,22
+2022-08-17,SAÍDA,servidor,35.85,,22.xlsx,22
+2022-08-17,SAÍDA,servidor,64.99,,22.xlsx,22
+2022-09-01,SAÍDA,custo de projeto,750.0,,22.xlsx,22
+2022-09-09,SAÍDA,membro,357.5,,22.xlsx,22
+2022-09-10,SAÍDA,custo de projeto,1333.33,,22.xlsx,22
+2022-09-14,SAÍDA,membro,357.5,,22.xlsx,22
+2022-09-15,SAÍDA,membro,750.0,,22.xlsx,22
+2022-09-18,SAÍDA,membro,2050.0,,22.xlsx,22
+2022-09-19,SAÍDA,servidor,35.85,,22.xlsx,22
+2022-09-20,SAÍDA,contador,230.0,,22.xlsx,22
+2022-09-23,SAÍDA,membro,2880.0,,22.xlsx,22
+2022-09-26,SAÍDA,membro,120.0,,22.xlsx,22
+2022-09-26,SAÍDA,membro,2050.0,,22.xlsx,22
+2022-09-26,SAÍDA,membro,750.0,,22.xlsx,22
+2022-10-04,SAÍDA,custo de projeto,750.0,,22.xlsx,22
+2022-10-06,SAÍDA,custo de projeto,585.69,,22.xlsx,22
+2022-10-11,SAÍDA,servidor,35.85,,22.xlsx,22
+2022-10-11,SAÍDA,membro,22.9,,22.xlsx,22
+2022-10-17,SAÍDA,trimestralidade,350.0,,22.xlsx,22
+2022-10-18,SAÍDA,custo de projeto,1333.33,,22.xlsx,22
+2022-10-18,SAÍDA,imersão,2750.0,,22.xlsx,22
+2022-10-19,SAÍDA,imersão,1300.0,,22.xlsx,22
+2022-10-20,SAÍDA,marketing,890.0,,22.xlsx,22
+2022-10-20,SAÍDA,membro,27.9,,22.xlsx,22
+2022-10-20,SAÍDA,imersão,175.2,,22.xlsx,22
+2022-10-20,SAÍDA,imersão,164.44,,22.xlsx,22
+2022-10-21,SAÍDA,imersão,1643.06,,22.xlsx,22
+2022-10-21,SAÍDA,imersão,2750.0,,22.xlsx,22
+2022-10-24,SAÍDA,imersão,1477.0,,22.xlsx,22
+2022-11-14,SAÍDA,servidor,35.85,,22.xlsx,22
+2022-11-22,SAÍDA,contador,230.0,,22.xlsx,22
+2022-11-29,SAÍDA,membro,890.0,,22.xlsx,22
+2022-12-05,SAÍDA,imposto,158.4,,22.xlsx,22
+2022-12-12,SAÍDA,servidor,35.85,,22.xlsx,22
+2022-12-12,SAÍDA,contador,230.0,,22.xlsx,22
+2022-12-22,SAÍDA,contador,230.0,,22.xlsx,22
+2023-01-30,ENTRADA,projeto,2697.5,Cliente 027,23.xlsx,23
+2023-01-25,ENTRADA,rendimento automático,55.34,,23.xlsx,23
+2023-02-01,ENTRADA,projeto,7920.06,Cliente 007,23.xlsx,23
+2023-02-02,ENTRADA,rendimento automático,5.55,,23.xlsx,23
+2023-02-06,ENTRADA,projeto,215.0,Cliente 025,23.xlsx,23
+2023-02-08,ENTRADA,rendimento automático,63.26,,23.xlsx,23
+2023-02-09,ENTRADA,projeto,215.0,Cliente 025,23.xlsx,23
+2023-02-10,ENTRADA,projeto,215.0,Cliente 025,23.xlsx,23
+2023-02-13,ENTRADA,rendimento automático,8.34,,23.xlsx,23
+2023-02-14,ENTRADA,rendimento automático,2.03,,23.xlsx,23
+2023-02-28,ENTRADA,projeto,215.0,Cliente 025,23.xlsx,23
+2023-03-06,ENTRADA,projeto,215.0,Cliente 025,23.xlsx,23
+2023-03-06,ENTRADA,projeto,430.0,Cliente 025,23.xlsx,23
+2023-03-01,ENTRADA,rendimento automático,3.43,,23.xlsx,23
+2023-03-02,ENTRADA,rendimento automático,1.08,,23.xlsx,23
+2023-03-14,ENTRADA,rendimento automático,4.87,,23.xlsx,23
+2023-03-15,ENTRADA,projeto,570.0,Cliente 075,23.xlsx,23
+2023-03-16,ENTRADA,rendimento automático,5.75,,23.xlsx,23
+2023-03-22,ENTRADA,projeto,400.0,Cliente 068,23.xlsx,23
+2023-03-22,ENTRADA,projeto,1250.0,Cliente 029,23.xlsx,23
+2023-03-30,ENTRADA,rendimento automático,1.98,,23.xlsx,23
+2023-04-04,ENTRADA,rendimento automático,1.29,,23.xlsx,23
+2023-04-05,ENTRADA,rendimento automático,1.73,,23.xlsx,23
+2023-04-06,ENTRADA,rendimento automático,25.29,,23.xlsx,23
+2023-04-10,ENTRADA,rendimento automático,0.59,,23.xlsx,23
+2023-04-11,ENTRADA,rendimento automático,1.83,,23.xlsx,23
+2023-04-12,ENTRADA,projeto,430.0,Cliente 025,23.xlsx,23
+2023-04-13,ENTRADA,projeto,215.0,Cliente 025,23.xlsx,23
+2023-04-18,ENTRADA,projeto,300.0,Cliente 068,23.xlsx,23
+2023-04-27,ENTRADA,projeto,1250.0,Cliente 029,23.xlsx,23
+2023-04-27,ENTRADA,projeto,1690.0,Cliente 002,23.xlsx,23
+2023-05-02,ENTRADA,rendimento automático,27.39,,23.xlsx,23
+2023-05-02,ENTRADA,projeto,996.45,Cliente 056,23.xlsx,23
+2023-05-03,ENTRADA,rendimento automático,2.23,,23.xlsx,23
+2023-05-03,ENTRADA,projeto,215.0,Cliente 025,23.xlsx,23
+2023-05-04,ENTRADA,rendimento automático,27.12,,23.xlsx,23
+2023-05-04,ENTRADA,membro,458.0,,23.xlsx,23
+2023-05-05,ENTRADA,projeto,300.0,Cliente 090,23.xlsx,23
+2023-05-09,ENTRADA,rendimento automático,5.2,,23.xlsx,23
+2023-05-10,ENTRADA,projeto,215.0,Cliente 025,23.xlsx,23
+2023-05-11,ENTRADA,rendimento automático,1.64,,23.xlsx,23
+2023-05-12,ENTRADA,rendimento automático,0.21,,23.xlsx,23
+2023-05-13,ENTRADA,rendimento automático,0.56,,23.xlsx,23
+2023-05-19,ENTRADA,rendimento automático,1.03,,23.xlsx,23
+2023-05-23,ENTRADA,rendimento automático,1.8,,23.xlsx,23
+2023-06-02,ENTRADA,rendimento automático,1.14,,23.xlsx,23
+2023-06-07,ENTRADA,rendimento automático,4.21,,23.xlsx,23
+2023-06-12,ENTRADA,rendimento automático,8.1,,23.xlsx,23
+2023-06-13,ENTRADA,projeto,1690.0,Cliente 002,23.xlsx,23
+2023-06-13,ENTRADA,rendimento automático,4.86,,23.xlsx,23
+2023-06-15,ENTRADA,projeto,595.0,Cliente 051,23.xlsx,23
+2023-06-20,ENTRADA,projeto,1500.0,Cliente 022,23.xlsx,23
+2023-06-21,ENTRADA,rendimento automático,0.9,,23.xlsx,23
+2023-07-03,ENTRADA,rendimento automático,18.26,,23.xlsx,23
+2023-07-10,ENTRADA,rendimento automático,42.79,,23.xlsx,23
+2023-07-11,ENTRADA,rendimento automático,1.5,,23.xlsx,23
+2023-07-13,ENTRADA,projeto,2210.0,Cliente 002,23.xlsx,23
+2023-07-19,ENTRADA,projeto,1500.0,Cliente 022,23.xlsx,23
+2023-08-02,ENTRADA,rendimento automático,1.32,,23.xlsx,23
+2023-08-03,ENTRADA,projeto,575.0,Cliente 051,23.xlsx,23
+2023-08-04,ENTRADA,rendimento automático,3.48,,23.xlsx,23
+2023-08-11,ENTRADA,rendimento automático,1.87,,23.xlsx,23
+2023-08-23,ENTRADA,projeto,2210.0,Cliente 002,23.xlsx,23
+2023-08-25,ENTRADA,projeto,1920.0,Cliente 009,23.xlsx,23
+2023-08-28,ENTRADA,projeto,536.0,Cliente 032,23.xlsx,23
+2023-08-31,ENTRADA,projeto,215.0,Cliente 025,23.xlsx,23
+2023-09-11,ENTRADA,rendimento automático,1.09,,23.xlsx,23
+2023-09-20,ENTRADA,projeto,1740.0,Cliente 002,23.xlsx,23
+2023-09-22,ENTRADA,projeto,841.0,Cliente 032,23.xlsx,23
+2023-10-02,ENTRADA,projeto,1920.0,Cliente 009,23.xlsx,23
+2023-10-03,ENTRADA,rendimento automático,1.72,,23.xlsx,23
+2023-10-04,ENTRADA,imersão,38.81,,23.xlsx,23
+2023-10-05,ENTRADA,projeto,780.0,Cliente 031,23.xlsx,23
+2023-10-11,ENTRADA,rendimento automático,2.42,,23.xlsx,23
+2023-10-17,ENTRADA,projeto,1730.0,Cliente 002,23.xlsx,23
+2023-10-23,ENTRADA,projeto,841.0,Cliente 032,23.xlsx,23
+2023-10-30,ENTRADA,projeto,950.0,Cliente 059,23.xlsx,23
+2023-10-31,ENTRADA,projeto,1920.0,Cliente 009,23.xlsx,23
+2023-11-06,ENTRADA,projeto,780.0,Cliente 031,23.xlsx,23
+2023-11-08,ENTRADA,custo de projeto,430.0,,23.xlsx,23
+2023-11-13,ENTRADA,rendimento automático,2.67,,23.xlsx,23
+2023-12-09,ENTRADA,projeto,1920.0,Cliente 009,23.xlsx,23
+2023-12-13,ENTRADA,projeto,780.0,Cliente 031,23.xlsx,23
+2023-01-12,SAÍDA,servidor,38.36,,23.xlsx,23
+2023-01-14,SAÍDA,sede,52.92,,23.xlsx,23
+2023-01-14,SAÍDA,sede,33.36,,23.xlsx,23
+2023-01-14,SAÍDA,sede,68.82,,23.xlsx,23
+2023-01-14,SAÍDA,sede,34.33,,23.xlsx,23
+2023-01-14,SAÍDA,capacitação,27.9,,23.xlsx,23
+2023-01-15,SAÍDA,sede,41.75,,23.xlsx,23
+2023-01-25,SAÍDA,mudança de diretoria,600.0,,23.xlsx,23
+2023-01-11,SAÍDA,taxa do banco,118.0,,23.xlsx,23
+2023-01-03,SAÍDA,taxa do banco,75.0,,23.xlsx,23
+2023-01-02,SAÍDA,taxa do cartão,14.7,,23.xlsx,23
+2023-02-01,SAÍDA,taxa do cartão,14.7,,23.xlsx,23
+2023-02-02,SAÍDA,taxa do banco,75.0,,23.xlsx,23
+2023-02-02,SAÍDA,taxa do banco,7.0,,23.xlsx,23
+2023-02-08,SAÍDA,capacitação,918.0,,23.xlsx,23
+2023-02-08,SAÍDA,capacitação,45.8,,23.xlsx,23
+2023-02-08,SAÍDA,capacitação,62.8,,23.xlsx,23
+2023-02-08,SAÍDA,capacitação,62.8,,23.xlsx,23
+2023-02-08,SAÍDA,capacitação,57.8,,23.xlsx,23
+2023-02-08,SAÍDA,sede,80.02,,23.xlsx,23
+2023-02-08,SAÍDA,sede,33.37,,23.xlsx,23
+2023-02-13,SAÍDA,taxa do banco,118.0,,23.xlsx,23
+2023-02-13,SAÍDA,sede,277.8,,23.xlsx,23
+2023-02-13,SAÍDA,membro,353.0,,23.xlsx,23
+2023-02-13,SAÍDA,taxa do banco,38.36,,23.xlsx,23
+2023-02-13,SAÍDA,sede,19.99,,23.xlsx,23
+2023-02-13,SAÍDA,sede,169.1,,23.xlsx,23
+2023-02-20,SAÍDA,membro,90.0,,23.xlsx,23
+2023-02-20,SAÍDA,sede,85.5,,23.xlsx,23
+2023-02-23,SAÍDA,sede,48.5,,23.xlsx,23
+2023-03-01,SAÍDA,taxa do cartão,14.7,,23.xlsx,23
+2023-03-02,SAÍDA,taxa do banco,75.0,,23.xlsx,23
+2023-03-02,SAÍDA,taxa do banco,16.0,,23.xlsx,23
+2023-03-13,SAÍDA,taxa do banco,118.0,,23.xlsx,23
+2023-03-14,SAÍDA,membro,263.0,,23.xlsx,23
+2023-03-15,SAÍDA,servidor,38.36,,23.xlsx,23
+2023-03-30,SAÍDA,membro,15.0,,23.xlsx,23
+2023-03-30,SAÍDA,membro,124.5,,23.xlsx,23
+2023-04-03,SAÍDA,taxa do cartão,7.35,,23.xlsx,23
+2023-04-04,SAÍDA,taxa do banco,75.0,,23.xlsx,23
+2023-04-04,SAÍDA,taxa do banco,3.8,,23.xlsx,23
+2023-04-05,SAÍDA,sede,114.33,,23.xlsx,23
+2023-04-06,SAÍDA,imersão,1675.8,,23.xlsx,23
+2023-04-10,SAÍDA,servidor,38.36,,23.xlsx,23
+2023-04-11,SAÍDA,taxa do banco,118.0,,23.xlsx,23
+2023-04-12,SAÍDA,mudança de diretoria,253.12,,23.xlsx,23
+2023-04-16,SAÍDA,membro,337.5,,23.xlsx,23
+2023-04-19,SAÍDA,imersão,630.0,,23.xlsx,23
+2023-04-24,SAÍDA,jurídico,20.0,,23.xlsx,23
+2023-04-24,SAÍDA,membro,22.3,,23.xlsx,23
+2023-04-26,SAÍDA,membro,492.5,,23.xlsx,23
+2023-04-26,SAÍDA,imersão,1800.0,,23.xlsx,23
+2023-05-02,SAÍDA,taxa do cartão,7.35,,23.xlsx,23
+2023-05-02,SAÍDA,sede,21.88,,23.xlsx,23
+2023-05-02,SAÍDA,imersão,5700.0,,23.xlsx,23
+2023-05-02,SAÍDA,imersão,176.87,,23.xlsx,23
+2023-05-03,SAÍDA,taxa do banco,3.8,,23.xlsx,23
+2023-05-03,SAÍDA,taxa do banco,75.0,,23.xlsx,23
+2023-05-03,SAÍDA,imersão,520.99,,23.xlsx,23
+2023-05-04,SAÍDA,membro,458.0,,23.xlsx,23
+2023-05-04,SAÍDA,membro,45.8,,23.xlsx,23
+2023-05-04,SAÍDA,imersão,80.0,,23.xlsx,23
+2023-05-04,SAÍDA,imersão,222.27,,23.xlsx,23
+2023-05-04,SAÍDA,imersão,4400.0,,23.xlsx,23
+2023-05-09,SAÍDA,contador,240.0,,23.xlsx,23
+2023-05-09,SAÍDA,imersão,145.0,,23.xlsx,23
+2023-05-09,SAÍDA,imersão,19.9,,23.xlsx,23
+2023-05-09,SAÍDA,imersão,388.0,,23.xlsx,23
+2023-05-09,SAÍDA,imersão,13.94,,23.xlsx,23
+2023-05-09,SAÍDA,imersão,155.46,,23.xlsx,23
+2023-05-09,SAÍDA,imersão,26.7,,23.xlsx,23
+2023-05-09,SAÍDA,imposto,14.0,,23.xlsx,23
+2023-05-11,SAÍDA,taxa do banco,118.0,,23.xlsx,23
+2023-05-11,SAÍDA,sede,189.17,,23.xlsx,23
+2023-05-14,SAÍDA,servidor,38.36,,23.xlsx,23
+2023-05-17,SAÍDA,imersão,99.9,,23.xlsx,23
+2023-05-19,SAÍDA,imposto,176.91,,23.xlsx,23
+2023-05-26,SAÍDA,sede,15.0,,23.xlsx,23
+2023-05-26,SAÍDA,sede,80.3,,23.xlsx,23
+2023-05-26,SAÍDA,membro,22.9,,23.xlsx,23
+2023-05-26,SAÍDA,sede,21.82,,23.xlsx,23
+2023-05-26,SAÍDA,sede,16.0,,23.xlsx,23
+2023-05-26,SAÍDA,membro,87.8,,23.xlsx,23
+2023-05-31,SAÍDA,custo de projeto,110.32,,23.xlsx,23
+2023-06-01,SAÍDA,taxa do cartão,7.35,,23.xlsx,23
+2023-06-02,SAÍDA,taxa do banco,75.0,,23.xlsx,23
+2023-06-02,SAÍDA,taxa do banco,33.42,,23.xlsx,23
+2023-06-07,SAÍDA,servidor,38.36,,23.xlsx,23
+2023-06-07,SAÍDA,imposto,141.27,,23.xlsx,23
+2023-06-07,SAÍDA,contador,240.0,,23.xlsx,23
+2023-06-12,SAÍDA,custo de projeto,160.89,Cliente 068,23.xlsx,23
+2023-06-12,SAÍDA,trimestralidade,630.0,,23.xlsx,23
+2023-06-13,SAÍDA,custo de projeto,305.09,Cliente 068,23.xlsx,23
+2023-06-13,SAÍDA,sede,45.68,,23.xlsx,23
+2023-06-13,SAÍDA,taxa do banco,118.0,,23.xlsx,23
+2023-06-27,SAÍDA,sede,17.89,,23.xlsx,23
+2023-06-27,SAÍDA,membro,33.96,,23.xlsx,23
+2023-06-27,SAÍDA,membro,32.77,,23.xlsx,23
+2023-07-03,SAÍDA,membro,289.9,,23.xlsx,23
+2023-07-03,SAÍDA,imposto,985.0,,23.xlsx,23
+2023-07-03,SAÍDA,contador,240.0,,23.xlsx,23
+2023-07-03,SAÍDA,taxa do banco,7.35,,23.xlsx,23
+2023-07-04,SAÍDA,taxa do banco,5.25,,23.xlsx,23
+2023-07-04,SAÍDA,taxa do banco,75.0,,23.xlsx,23
+2023-07-05,SAÍDA,membro,92.0,,23.xlsx,23
+2023-07-10,SAÍDA,sede,3247.47,,23.xlsx,23
+2023-07-10,SAÍDA,sede,155.04,,23.xlsx,23
+2023-07-11,SAÍDA,taxa do banco,118.0,,23.xlsx,23
+2023-07-14,SAÍDA,servidor,38.36,,23.xlsx,23
+2023-07-14,SAÍDA,taxa do banco,30.54,,23.xlsx,23
+2023-07-19,SAÍDA,taxa do banco,4.08,,23.xlsx,23
+2023-07-31,SAÍDA,custo de projeto,30.0,,23.xlsx,23
+2023-07-31,SAÍDA,custo de projeto,101.96,,23.xlsx,23
+2023-07-31,SAÍDA,custo de projeto,95.7,,23.xlsx,23
+2023-08-01,SAÍDA,taxa do cartão,7.35,,23.xlsx,23
+2023-08-02,SAÍDA,taxa do banco,75.0,,23.xlsx,23
+2023-08-02,SAÍDA,taxa do banco,5.97,,23.xlsx,23
+2023-08-04,SAÍDA,membro,155.0,,23.xlsx,23
+2023-08-04,SAÍDA,membro,45.6,,23.xlsx,23
+2023-08-04,SAÍDA,capacitação,27.9,,23.xlsx,23
+2023-08-08,SAÍDA,imposto,97.6,,23.xlsx,23
+2023-08-08,SAÍDA,contador,240.0,,23.xlsx,23
+2023-08-11,SAÍDA,taxa do banco,118.0,,23.xlsx,23
+2023-08-14,SAÍDA,servidor,38.36,,23.xlsx,23
+2023-08-14,SAÍDA,servidor,67.99,,23.xlsx,23
+2023-08-16,SAÍDA,membro,241.9,,23.xlsx,23
+2023-08-16,SAÍDA,membro,33.57,,23.xlsx,23
+2023-08-16,SAÍDA,membro,88.02,,23.xlsx,23
+2023-08-17,SAÍDA,custo de projeto,248.08,,23.xlsx,23
+2023-08-17,SAÍDA,custo de projeto,15.18,,23.xlsx,23
+2023-08-17,SAÍDA,sede,138.9,,23.xlsx,23
+2023-08-17,SAÍDA,imersão,500.0,,23.xlsx,23
+2023-08-18,SAÍDA,imersão,450.0,,23.xlsx,23
+2023-08-20,SAÍDA,membro,159.8,,23.xlsx,23
+2023-08-21,SAÍDA,custo de projeto,101.71,,23.xlsx,23
+2023-08-23,SAÍDA,taxa do banco,1.98,,23.xlsx,23
+2023-08-24,SAÍDA,custo de projeto,31.82,,23.xlsx,23
+2023-08-24,SAÍDA,membro,28.0,,23.xlsx,23
+2023-08-25,SAÍDA,taxa do banco,1.98,,23.xlsx,23
+2023-08-28,SAÍDA,taxa do banco,2.98,,23.xlsx,23
+2023-08-30,SAÍDA,custo de projeto,25.35,,23.xlsx,23
+2023-09-01,SAÍDA,taxa do cartão,7.35,,23.xlsx,23
+2023-09-04,SAÍDA,taxa do banco,75.0,,23.xlsx,23
+2023-09-04,SAÍDA,taxa do banco,5.49,,23.xlsx,23
+2023-09-04,SAÍDA,rendimento automático,1.56,,23.xlsx,23
+2023-09-10,SAÍDA,contador,240.0,,23.xlsx,23
+2023-09-10,SAÍDA,imposto,23.4,,23.xlsx,23
+2023-09-11,SAÍDA,membro,59.92,,23.xlsx,23
+2023-09-11,SAÍDA,projeto,2500.0,,23.xlsx,23
+2023-09-12,SAÍDA,taxa do banco,118.0,,23.xlsx,23
+2023-09-14,SAÍDA,servidor,38.36,,23.xlsx,23
+2023-09-20,SAÍDA,taxa do banco,2.98,,23.xlsx,23
+2023-09-22,SAÍDA,taxa do banco,1.98,,23.xlsx,23
+2023-09-22,SAÍDA,custo de projeto,82.32,,23.xlsx,23
+2023-09-27,SAÍDA,imersão,1097.5,,23.xlsx,23
+2023-09-30,SAÍDA,imersão,375.0,,23.xlsx,23
+2023-10-02,SAÍDA,taxa do cartão,7.35,,23.xlsx,23
+2023-10-02,SAÍDA,taxa do banco,1.98,,23.xlsx,23
+2023-10-02,SAÍDA,imersão,3200.0,,23.xlsx,23
+2023-10-02,SAÍDA,imersão,1800.0,,23.xlsx,23
+2023-10-03,SAÍDA,imersão,1700.0,,23.xlsx,23
+2023-10-03,SAÍDA,taxa do banco,3.74,,23.xlsx,23
+2023-10-03,SAÍDA,taxa do banco,75.0,,23.xlsx,23
+2023-10-03,SAÍDA,custo de projeto,42.8,,23.xlsx,23
+2023-10-04,SAÍDA,imersão,700.0,,23.xlsx,23
+2023-10-04,SAÍDA,imersão,1000.0,,23.xlsx,23
+2023-10-05,SAÍDA,imersão,6.64,,23.xlsx,23
+2023-10-05,SAÍDA,imersão,125.46,,23.xlsx,23
+2023-10-07,SAÍDA,imersão,27.5,,23.xlsx,23
+2023-10-07,SAÍDA,imersão,273.64,,23.xlsx,23
+2023-10-07,SAÍDA,imersão,33.0,,23.xlsx,23
+2023-10-08,SAÍDA,imersão,27.5,,23.xlsx,23
+2023-10-08,SAÍDA,imersão,335.64,,23.xlsx,23
+2023-10-09,SAÍDA,capacitação,34.9,,23.xlsx,23
+2023-10-09,SAÍDA,imersão,40.0,,23.xlsx,23
+2023-10-09,SAÍDA,imersão,22.9,,23.xlsx,23
+2023-10-09,SAÍDA,imersão,33.1,,23.xlsx,23
+2023-10-09,SAÍDA,imersão,24.97,,23.xlsx,23
+2023-10-09,SAÍDA,imersão,187.0,,23.xlsx,23
+2023-10-09,SAÍDA,imersão,134.59,,23.xlsx,23
+2023-10-09,SAÍDA,imersão,191.86,,23.xlsx,23
+2023-10-09,SAÍDA,imposto,137.52,,23.xlsx,23
+2023-10-10,SAÍDA,contador,240.0,,23.xlsx,23
+2023-10-10,SAÍDA,imersão,79.93,,23.xlsx,23
+2023-10-11,SAÍDA,taxa do banco,118.0,,23.xlsx,23
+2023-10-16,SAÍDA,servidor,38.36,,23.xlsx,23
+2023-10-17,SAÍDA,taxa do banco,2.98,,23.xlsx,23
+2023-10-19,SAÍDA,membro,75.99,,23.xlsx,23
+2023-10-19,SAÍDA,sede,16.98,,23.xlsx,23
+2023-10-23,SAÍDA,taxa do banco,2.98,,23.xlsx,23
+2023-10-31,SAÍDA,taxa do banco,2.98,,23.xlsx,23
+2023-11-01,SAÍDA,taxa do cartão,7.35,,23.xlsx,23
+2023-11-03,SAÍDA,taxa do banco,75.0,,23.xlsx,23
+2023-11-03,SAÍDA,contador,240.0,,23.xlsx,23
+2023-11-04,SAÍDA,custo de projeto,133.73,,23.xlsx,23
+2023-11-08,SAÍDA,membro,41.73,,23.xlsx,23
+2023-11-08,SAÍDA,custo de projeto,199.0,,23.xlsx,23
+2023-11-08,SAÍDA,custo de projeto,155.01,,23.xlsx,23
+2023-11-10,SAÍDA,trimestralidade,1260.0,,23.xlsx,23
+2023-11-13,SAÍDA,taxa do banco,118.0,,23.xlsx,23
+2023-11-13,SAÍDA,servidor,29.89,,23.xlsx,23
+2023-11-14,SAÍDA,servidor,38.36,,23.xlsx,23
+2023-12-01,SAÍDA,taxa do cartão,7.35,,23.xlsx,23
+2023-12-04,SAÍDA,sede,4301.88,,23.xlsx,23
+2023-12-07,SAÍDA,jurídico,1000.0,,23.xlsx,23
+2023-12-07,SAÍDA,mudança de diretoria,600.0,,23.xlsx,23
+2023-12-08,SAÍDA,contador,240.0,,23.xlsx,23
+2023-12-09,SAÍDA,taxa do banco,1.98,,23.xlsx,23
+2023-12-12,SAÍDA,taxa do banco,118.0,,23.xlsx,23
+2023-12-13,SAÍDA,custo de projeto,324.94,,23.xlsx,23
+2023-12-15,SAÍDA,servidor,38.36,,23.xlsx,23
+2023-12-05,SAÍDA,projeto,38.2,,23.xlsx,23
+2024-01-08,ENTRADA,projeto,1920.0,Cliente 008,24.xlsx,24
+2024-01-15,ENTRADA,projeto,1730.0,Cliente 041,24.xlsx,24
+2024-01-25,ENTRADA,projeto,950.0,Cliente 057,24.xlsx,24
+2024-02-01,ENTRADA,projeto,1920.0,Cliente 008,24.xlsx,24
+2024-02-14,ENTRADA,projeto,633.33,Cliente 072,24.xlsx,24
+2024-03-11,ENTRADA,projeto,1920.0,Cliente 008,24.xlsx,24
+2024-03-26,ENTRADA,projeto,1000.0,Cliente 034,24.xlsx,24
+2024-04-02,ENTRADA,projeto,1920.0,Cliente 008,24.xlsx,24
+2024-05-22,ENTRADA,projeto,1920.0,Cliente 036,24.xlsx,24
+2024-06-04,ENTRADA,projeto,1000.0,Cliente 052,24.xlsx,24
+2024-06-22,ENTRADA,projeto,1920.0,Cliente 033,24.xlsx,24
+2024-06-30,ENTRADA,projeto,280.0,Cliente 033,24.xlsx,24
+2024-07-01,ENTRADA,projeto,45.0,Cliente 097,24.xlsx,24
+2024-07-09,ENTRADA,projeto,1266.67,Cliente 048,24.xlsx,24
+2024-09-11,ENTRADA,projeto,200.0,Cliente 095,24.xlsx,24
+2024-10-08,ENTRADA,imersão,4000.0,,24.xlsx,24
+2024-10-18,ENTRADA,imersão,1779.15,,24.xlsx,24
+2024-11-14,ENTRADA,renovação,550.0,,24.xlsx,24
+2024-11-29,ENTRADA,renovação,215.0,,24.xlsx,24
+2024-12-17,ENTRADA,contador,220.0,,24.xlsx,24
+2024-12-19,ENTRADA,contador,500.0,,24.xlsx,24
+2024-01-05,SAÍDA,contador,500.0,,24.xlsx,24
+2024-01-05,SAÍDA,contador,240.0,,24.xlsx,24
+2024-01-07,SAÍDA,servidor,41.43,,24.xlsx,24
+2024-01-23,SAÍDA,renovação,495.3,,24.xlsx,24
+2024-01-26,SAÍDA,renovação,1046.4,,24.xlsx,24
+2024-01-31,SAÍDA,taxa do banco,5.94,,24.xlsx,24
+2024-02-06,SAÍDA,curso,997.0,,24.xlsx,24
+2024-02-17,SAÍDA,projeto,49.53,,24.xlsx,24
+2024-02-18,SAÍDA,renovação,41.43,,24.xlsx,24
+2024-02-22,SAÍDA,membro,185.0,,24.xlsx,24
+2024-02-22,SAÍDA,material,305.1,,24.xlsx,24
+2024-02-22,SAÍDA,material,32.05,,24.xlsx,24
+2024-02-27,SAÍDA,material,46.03,,24.xlsx,24
+2024-02-27,SAÍDA,material,39.34,,24.xlsx,24
+2024-02-28,SAÍDA,curso,34.9,,24.xlsx,24
+2024-02-29,SAÍDA,custo de projeto,34.7,Cliente 051,24.xlsx,24
+2024-02-29,SAÍDA,taxa do banco,5.96,,24.xlsx,24
+2024-03-08,SAÍDA,material,185.0,,24.xlsx,24
+2024-03-08,SAÍDA,renovação,550.0,,24.xlsx,24
+2024-03-13,SAÍDA,evento mej,300.0,,24.xlsx,24
+2024-03-13,SAÍDA,evento mej,300.0,,24.xlsx,24
+2024-03-13,SAÍDA,evento mej,300.0,,24.xlsx,24
+2024-03-13,SAÍDA,evento mej,300.0,,24.xlsx,24
+2024-03-14,SAÍDA,renovação,41.43,,24.xlsx,24
+2024-03-17,SAÍDA,evento mej,94.42,,24.xlsx,24
+2024-03-21,SAÍDA,renovação,215.0,,24.xlsx,24
+2024-03-23,SAÍDA,custo de projeto,47.58,,24.xlsx,24
+2024-03-23,SAÍDA,custo de projeto,46.53,,24.xlsx,24
+2024-03-23,SAÍDA,custo de projeto,30.0,,24.xlsx,24
+2024-03-26,SAÍDA,imersão,500.0,,24.xlsx,24
+2024-03-28,SAÍDA,iss,61.99,,24.xlsx,24
+2024-03-28,SAÍDA,iss,53.1,,24.xlsx,24
+2024-03-28,SAÍDA,evento mej,96.05,,24.xlsx,24
+2024-03-28,SAÍDA,projeto,59.1,,24.xlsx,24
+2024-03-31,SAÍDA,taxa do banco,6.96,,24.xlsx,24
+2024-04-02,SAÍDA,renovação,215.0,,24.xlsx,24
+2024-04-03,SAÍDA,imposto,58.4,,24.xlsx,24
+2024-04-03,SAÍDA,taxa do banco,2.98,,24.xlsx,24
+2024-04-11,SAÍDA,renovação,41.43,,24.xlsx,24
+2024-05-14,SAÍDA,imersão,703.5,,24.xlsx,24
+2024-05-14,SAÍDA,imersão,400.0,,24.xlsx,24
+2024-05-14,SAÍDA,material,53.4,,24.xlsx,24
+2024-05-14,SAÍDA,projeto,22.0,,24.xlsx,24
+2024-05-14,SAÍDA,imersão,800.0,,24.xlsx,24
+2024-05-14,SAÍDA,renovação,41.43,,24.xlsx,24
+2024-05-14,SAÍDA,renovação,215.0,,24.xlsx,24
+2024-05-15,SAÍDA,contador,247.69,,24.xlsx,24
+2024-05-15,SAÍDA,imersão,3400.0,,24.xlsx,24
+2024-05-16,SAÍDA,imersão,1120.0,,24.xlsx,24
+2024-05-21,SAÍDA,imersão,240.0,,24.xlsx,24
+2024-05-22,SAÍDA,imersão,590.57,,24.xlsx,24
+2024-05-24,SAÍDA,imersão,39.0,,24.xlsx,24
+2024-05-24,SAÍDA,imersão,19.96,,24.xlsx,24
+2024-05-24,SAÍDA,imersão,16.89,,24.xlsx,24
+2024-05-24,SAÍDA,imersão,49.22,,24.xlsx,24
+2024-05-25,SAÍDA,imersão,170.0,,24.xlsx,24
+2024-05-25,SAÍDA,imersão,640.8,,24.xlsx,24
+2024-05-26,SAÍDA,imersão,650.0,,24.xlsx,24
+2024-05-26,SAÍDA,material,80.0,,24.xlsx,24
+2024-05-27,SAÍDA,imersão,1680.0,,24.xlsx,24
+2024-05-31,SAÍDA,taxa do banco,1.98,,24.xlsx,24
+2024-06-04,SAÍDA,renovação,550.0,,24.xlsx,24
+2024-06-04,SAÍDA,jurídico,38.4,,24.xlsx,24
+2024-06-05,SAÍDA,projeto,40.8,,24.xlsx,24
+2024-06-05,SAÍDA,projeto,140.82,,24.xlsx,24
+2024-06-09,SAÍDA,renovação,215.0,,24.xlsx,24
+2024-06-15,SAÍDA,renovação,41.43,,24.xlsx,24
+2024-06-15,SAÍDA,renovação,67.99,,24.xlsx,24
+2024-06-19,SAÍDA,imersão,250.0,,24.xlsx,24
+2024-06-19,SAÍDA,imersão,209.94,,24.xlsx,24
+2024-06-19,SAÍDA,imersão,99.8,,24.xlsx,24
+2024-06-30,SAÍDA,taxa do banco,6.95,,24.xlsx,24
+2024-07-03,SAÍDA,renovação,290.0,,24.xlsx,24
+2024-07-04,SAÍDA,iss,350.89,,24.xlsx,24
+2024-07-04,SAÍDA,iss,66.56,,24.xlsx,24
+2024-07-05,SAÍDA,jurídico,22.97,,24.xlsx,24
+2024-07-14,SAÍDA,renovação,41.43,,24.xlsx,24
+2024-07-16,SAÍDA,jurídico,686.63,,24.xlsx,24
+2024-07-17,SAÍDA,contador,215.0,,24.xlsx,24
+2024-07-23,SAÍDA,jurídico,168.78,,24.xlsx,24
+2024-07-31,SAÍDA,imposto,6.97,,24.xlsx,24
+2024-08-05,SAÍDA,imposto,25.33,,24.xlsx,24
+2024-08-10,SAÍDA,contador,215.0,,24.xlsx,24
+2024-08-10,SAÍDA,imersão,245.0,,24.xlsx,24
+2024-08-18,SAÍDA,renovação,43.42,,24.xlsx,24
+2024-08-20,SAÍDA,imersão,123.99,,24.xlsx,24
+2024-08-31,SAÍDA,taxa do banco,1.0,,24.xlsx,24
+2024-09-03,SAÍDA,iss,108.0,,24.xlsx,24
+2024-09-06,SAÍDA,renovação,550.0,,24.xlsx,24
+2024-09-08,SAÍDA,contador,215.0,,24.xlsx,24
+2024-09-11,SAÍDA,imersão,148.97,,24.xlsx,24
+2024-09-12,SAÍDA,projeto,59.49,,24.xlsx,24
+2024-09-12,SAÍDA,projeto,41.91,,24.xlsx,24
+2024-09-12,SAÍDA,projeto,46.32,,24.xlsx,24
+2024-09-12,SAÍDA,projeto,29.88,,24.xlsx,24
+2024-09-16,SAÍDA,servidor,41.43,,24.xlsx,24
+2024-09-30,SAÍDA,imposto,2.98,,24.xlsx,24
+2024-10-01,SAÍDA,imersão,900.0,,24.xlsx,24
+2024-10-04,SAÍDA,projeto,92.34,,24.xlsx,24
+2024-10-04,SAÍDA,imersão,155.22,,24.xlsx,24
+2024-10-09,SAÍDA,contador,215.0,,24.xlsx,24
+2024-10-09,SAÍDA,servidor,41.43,,24.xlsx,24
+2024-10-09,SAÍDA,imersão,1850.0,,24.xlsx,24
+2024-10-14,SAÍDA,imersão,548.9,,24.xlsx,24
+2024-10-15,SAÍDA,imersão,176.0,,24.xlsx,24
+2024-10-17,SAÍDA,imersão,1500.0,,24.xlsx,24
+2024-10-21,SAÍDA,imersão,2218.0,,24.xlsx,24
+2024-11-13,SAÍDA,servidor,41.43,,24.xlsx,24
+2024-11-14,SAÍDA,renovação,550.0,,24.xlsx,24
+2024-11-30,SAÍDA,contador,220.73,,24.xlsx,24
+2024-11-30,SAÍDA,taxa do banco,1.98,,24.xlsx,24
+2024-12-17,SAÍDA,contador,219.8,,24.xlsx,24
+2024-12-27,SAÍDA,contador,500.0,,24.xlsx,24
+2024-12-27,SAÍDA,servidor,43.42,,24.xlsx,24
+2024-12-21,SAÍDA,taxa do banco,1.98,,24.xlsx,24
+2024-01-03,ENTRADA,rendimento automático,83.99,,24.xlsx,24
+2024-01-03,ENTRADA,rendimento automático,0.35,,24.xlsx,24
+2024-01-08,ENTRADA,rendimento automático,414.97,,24.xlsx,24
+2024-01-08,ENTRADA,rendimento automático,1.27,,24.xlsx,24
+2024-01-11,ENTRADA,rendimento automático,117.8,,24.xlsx,24
+2024-01-11,ENTRADA,rendimento automático,0.2,,24.xlsx,24
+2024-02-02,ENTRADA,rendimento automático,81.98,,24.xlsx,24
+2024-02-02,ENTRADA,rendimento automático,0.37,,24.xlsx,24
+2024-02-15,ENTRADA,rendimento automático,117.41,,24.xlsx,24
+2024-02-15,ENTRADA,rendimento automático,0.59,,24.xlsx,24
+2024-03-01,ENTRADA,rendimento automático,7.28,,24.xlsx,24
+2024-03-01,ENTRADA,rendimento automático,0.07,,24.xlsx,24
+2024-03-04,ENTRADA,rendimento automático,89.23,,24.xlsx,24
+2024-03-04,ENTRADA,rendimento automático,0.77,,24.xlsx,24
+2024-03-12,ENTRADA,rendimento automático,116.92,,24.xlsx,24
+2024-03-12,ENTRADA,rendimento automático,1.08,,24.xlsx,24
+2024-04-01,ENTRADA,rendimento automático,7.28,,24.xlsx,24
+2024-04-01,ENTRADA,rendimento automático,0.07,,24.xlsx,24
+2024-04-02,ENTRADA,rendimento automático,89.06,,24.xlsx,24
+2024-04-02,ENTRADA,rendimento automático,0.94,,24.xlsx,24
+2024-05-02,ENTRADA,rendimento automático,7.26,,24.xlsx,24
+2024-05-02,ENTRADA,rendimento automático,0.09,,24.xlsx,24
+2024-05-03,ENTRADA,rendimento automático,88.84,,24.xlsx,24
+2024-05-03,ENTRADA,rendimento automático,1.16,,24.xlsx,24
+2024-05-22,ENTRADA,material,20.77,,24.xlsx,24
+2024-05-22,ENTRADA,material,5.81,,24.xlsx,24
+2024-05-22,ENTRADA,material,19.85,,24.xlsx,24
+2024-05-24,ENTRADA,material,9.9,,24.xlsx,24
+2024-05-31,ENTRADA,material,9.5,,24.xlsx,24
+2024-06-03,ENTRADA,rendimento automático,7.24,,24.xlsx,24
+2024-06-03,ENTRADA,rendimento automático,0.11,,24.xlsx,24
+2024-06-04,ENTRADA,rendimento automático,88.69,,24.xlsx,24
+2024-06-04,ENTRADA,rendimento automático,1.31,,24.xlsx,24
+2024-06-11,ENTRADA,rendimento automático,116.24,,24.xlsx,24
+2024-06-11,ENTRADA,rendimento automático,1.76,,24.xlsx,24
+2024-07-01,ENTRADA,rendimento automático,7.23,,24.xlsx,24
+2024-07-01,ENTRADA,rendimento automático,0.12,,24.xlsx,24
+2024-07-02,ENTRADA,rendimento automático,88.53,,24.xlsx,24
+2024-07-02,ENTRADA,rendimento automático,1.47,,24.xlsx,24
+2024-07-11,ENTRADA,rendimento automático,116.0,,24.xlsx,24
+2024-07-11,ENTRADA,rendimento automático,2.0,,24.xlsx,24
+2024-08-01,ENTRADA,rendimento automático,7.22,,24.xlsx,24
+2024-08-01,ENTRADA,rendimento automático,0.13,,24.xlsx,24
+2024-08-02,ENTRADA,rendimento automático,88.34,,24.xlsx,24
+2024-08-02,ENTRADA,rendimento automático,1.66,,24.xlsx,24
+2024-08-13,ENTRADA,rendimento automático,115.75,,24.xlsx,24
+2024-08-13,ENTRADA,rendimento automático,2.25,,24.xlsx,24
+2024-09-02,ENTRADA,rendimento automático,7.2,,24.xlsx,24
+2024-09-02,ENTRADA,rendimento automático,0.15,,24.xlsx,24
+2024-09-03,ENTRADA,projeto,4889.7,Cliente 016,24.xlsx,24
+2024-09-11,ENTRADA,rendimento automático,115.52,,24.xlsx,24
+2024-09-11,ENTRADA,rendimento automático,2.48,,24.xlsx,24
+2024-10-01,ENTRADA,rendimento automático,7.19,,24.xlsx,24
+2024-10-01,ENTRADA,rendimento automático,0.16,,24.xlsx,24
+2024-10-02,ENTRADA,rendimento automático,87.99,,24.xlsx,24
+2024-10-02,ENTRADA,rendimento automático,2.01,,24.xlsx,24
+2024-10-08,ENTRADA,rendimento automático,3973.9,,24.xlsx,24
+2024-10-08,ENTRADA,rendimento automático,26.1,,24.xlsx,24
+2024-10-11,ENTRADA,rendimento automático,117.98,,24.xlsx,24
+2024-10-11,ENTRADA,rendimento automático,0.02,,24.xlsx,24
+2024-10-18,ENTRADA,rendimento automático,1778.79,,24.xlsx,24
+2024-10-18,ENTRADA,rendimento automático,0.36,,24.xlsx,24
+2024-11-01,ENTRADA,rendimento automático,7.35,,24.xlsx,24
+2024-11-04,ENTRADA,rendimento automático,93.95,,24.xlsx,24
+2024-11-04,ENTRADA,rendimento automático,0.03,,24.xlsx,24
+2024-11-12,ENTRADA,rendimento automático,71.61,,24.xlsx,24
+2024-11-12,ENTRADA,rendimento automático,0.02,,24.xlsx,24
+2024-01-02,SAÍDA,taxa do banco,7.35,,24.xlsx,24
+2024-01-02,SAÍDA,aplicação automática,3244.21,,24.xlsx,24
+2024-01-03,SAÍDA,taxa do banco,75.0,,24.xlsx,24
+2024-01-03,SAÍDA,taxa do banco,1.99,,24.xlsx,24
+2024-01-08,SAÍDA,imposto,178.69,,24.xlsx,24
+2024-01-08,SAÍDA,imposto,36.44,,24.xlsx,24
+2024-01-08,SAÍDA,imposto,1.09,,24.xlsx,24
+2024-01-08,SAÍDA,imposto,4.68,,24.xlsx,24
+2024-01-08,SAÍDA,imposto,125.07,,24.xlsx,24
+2024-01-08,SAÍDA,imposto,0.69,,24.xlsx,24
+2024-01-08,SAÍDA,imposto,6.92,,24.xlsx,24
+2024-01-08,SAÍDA,imposto,6.5,,24.xlsx,24
+2024-01-08,SAÍDA,imposto,56.16,,24.xlsx,24
+2024-01-11,SAÍDA,taxa do banco,118.0,,24.xlsx,24
+2024-02-01,SAÍDA,taxa do banco,7.35,,24.xlsx,24
+2024-02-02,SAÍDA,taxa do banco,75.0,,24.xlsx,24
+2024-02-15,SAÍDA,taxa do banco,118.0,,24.xlsx,24
+2024-02-22,SAÍDA,aplicação automática,9.0,,24.xlsx,24
+2024-03-01,SAÍDA,taxa do banco,7.35,,24.xlsx,24
+2024-03-04,SAÍDA,taxa do banco,90.0,,24.xlsx,24
+2024-03-12,SAÍDA,taxa do banco,118.0,,24.xlsx,24
+2024-04-01,SAÍDA,taxa do banco,7.35,,24.xlsx,24
+2024-04-02,SAÍDA,taxa do banco,90.0,,24.xlsx,24
+2024-05-02,SAÍDA,taxa do banco,7.35,,24.xlsx,24
+2024-05-03,SAÍDA,taxa do banco,90.0,,24.xlsx,24
+2024-05-22,SAÍDA,aplicação automática,46.43,,24.xlsx,24
+2024-05-24,SAÍDA,aplicação automática,9.9,,24.xlsx,24
+2024-05-31,SAÍDA,aplicação automática,9.5,,24.xlsx,24
+2024-06-03,SAÍDA,taxa do banco,7.35,,24.xlsx,24
+2024-06-04,SAÍDA,taxa do banco,90.0,,24.xlsx,24
+2024-06-11,SAÍDA,taxa do banco,118.0,,24.xlsx,24
+2024-07-01,SAÍDA,taxa do banco,7.35,,24.xlsx,24
+2024-07-02,SAÍDA,taxa do banco,90.0,,24.xlsx,24
+2024-07-11,SAÍDA,taxa do banco,118.0,,24.xlsx,24
+2024-08-01,SAÍDA,taxa do banco,7.35,,24.xlsx,24
+2024-08-02,SAÍDA,taxa do banco,90.0,,24.xlsx,24
+2024-08-13,SAÍDA,taxa do banco,118.0,,24.xlsx,24
+2024-09-02,SAÍDA,taxa do banco,7.35,,24.xlsx,24
+2024-09-03,SAÍDA,aplicação automática,4799.7,,24.xlsx,24
+2024-09-03,SAÍDA,taxa do banco,90.0,,24.xlsx,24
+2024-09-11,SAÍDA,taxa do banco,118.0,,24.xlsx,24
+2024-10-01,SAÍDA,taxa do banco,7.35,,24.xlsx,24
+2024-10-02,SAÍDA,taxa do banco,90.0,,24.xlsx,24
+2024-10-08,SAÍDA,transação entre bancos,4000.0,,24.xlsx,24
+2024-10-11,SAÍDA,taxa do banco,118.0,,24.xlsx,24
+2024-10-18,SAÍDA,transação entre bancos,1779.15,,24.xlsx,24
+2024-11-01,SAÍDA,taxa do banco,7.35,,24.xlsx,24
+2024-11-01,SAÍDA,taxa do banco,90.0,,24.xlsx,24
+2024-11-04,SAÍDA,taxa do banco,3.98,,24.xlsx,24
+2024-11-04,SAÍDA,taxa do banco,118.0,,24.xlsx,24
+2024-12-03,SAÍDA,taxa do banco,0.2,,24.xlsx,24
+2024-12-10,SAÍDA,taxa do banco,6.62,,24.xlsx,24
+2025-03-10,ENTRADA,projeto,158.34,Cliente 060,25.xlsx,25
+2025-04-23,ENTRADA,projeto,158.34,Cliente 060,25.xlsx,25
+2025-04-26,ENTRADA,membro,250.0,,25.xlsx,25
+2025-05-14,ENTRADA,projeto,1050.33,Cliente 034,25.xlsx,25
+2025-05-23,ENTRADA,projeto,158.33,Cliente 060,25.xlsx,25
+2025-06-04,ENTRADA,membro,1.0,,25.xlsx,25
+2025-06-23,ENTRADA,projeto,158.33,Cliente 060,25.xlsx,25
+2025-07-20,ENTRADA,projeto,158.33,Cliente 060,25.xlsx,25
+2025-07-23,ENTRADA,membro,50.0,,25.xlsx,25
+2025-07-23,ENTRADA,membro,50.0,,25.xlsx,25
+2025-08-21,ENTRADA,projeto,158.33,Cliente 060,25.xlsx,25
+2025-09-22,ENTRADA,membro,10.0,,25.xlsx,25
+2025-10-17,ENTRADA,projeto,3780.0,Cliente 021,25.xlsx,25
+2025-01-06,SAÍDA,taxa do banco,4.9,,25.xlsx,25
+2025-01-29,SAÍDA,servidor,43.42,,25.xlsx,25
+2025-03-08,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-03-10,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-03-10,SAÍDA,taxa do banco,0.99,,25.xlsx,25
+2025-03-10,SAÍDA,taxa do banco,0.99,,25.xlsx,25
+2025-03-10,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-03-10,SAÍDA,servidor,29.37,,25.xlsx,25
+2025-03-17,SAÍDA,trimestralidade,88.96,,25.xlsx,25
+2025-03-24,SAÍDA,taxa do banco,47.18,,25.xlsx,25
+2025-04-23,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-04-23,SAÍDA,imposto,3.28,,25.xlsx,25
+2025-04-23,SAÍDA,taxa do banco,0.99,,25.xlsx,25
+2025-04-23,SAÍDA,taxa do banco,0.99,,25.xlsx,25
+2025-04-23,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-04-23,SAÍDA,trimestralidade,89.31,,25.xlsx,25
+2025-04-25,SAÍDA,projeto,25.0,Cliente 060,25.xlsx,25
+2025-04-25,SAÍDA,projeto,34.6,Cliente 060,25.xlsx,25
+2025-04-25,SAÍDA,projeto,21.88,Cliente 060,25.xlsx,25
+2025-04-26,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-04-26,SAÍDA,taxa do banco,0.99,,25.xlsx,25
+2025-04-26,SAÍDA,taxa do banco,0.99,,25.xlsx,25
+2025-04-26,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-04-28,SAÍDA,projeto,20.22,Cliente 060,25.xlsx,25
+2025-04-28,SAÍDA,jurídico,196.14,,25.xlsx,25
+2025-05-05,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-05-07,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-05-07,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-05-12,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-05-13,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-05-13,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-05-14,SAÍDA,taxa do banco,1.99,,25.xlsx,25
+2025-05-14,SAÍDA,taxa do banco,0.99,,25.xlsx,25
+2025-05-20,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-05-23,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-05-23,SAÍDA,taxa do banco,0.99,,25.xlsx,25
+2025-05-23,SAÍDA,taxa do banco,0.99,,25.xlsx,25
+2025-05-23,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-06-03,SAÍDA,imposto,21.0,,25.xlsx,25
+2025-06-03,SAÍDA,imposto,3.41,,25.xlsx,25
+2025-06-04,SAÍDA,contador,1075.0,,25.xlsx,25
+2025-06-09,SAÍDA,servidor,45.19,,25.xlsx,25
+2025-06-20,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-06-23,SAÍDA,taxa do banco,0.99,,25.xlsx,25
+2025-06-23,SAÍDA,taxa do banco,0.99,,25.xlsx,25
+2025-06-23,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-07-10,SAÍDA,servidor,45.19,,25.xlsx,25
+2025-07-18,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-07-20,SAÍDA,taxa do banco,0.99,,25.xlsx,25
+2025-07-20,SAÍDA,taxa do banco,0.99,,25.xlsx,25
+2025-07-20,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-07-23,SAÍDA,taxa do banco,0.99,,25.xlsx,25
+2025-07-23,SAÍDA,taxa do banco,0.99,,25.xlsx,25
+2025-07-23,SAÍDA,taxa do banco,386.0,,25.xlsx,25
+2025-07-23,SAÍDA,taxa do banco,57.56,,25.xlsx,25
+2025-08-20,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-08-21,SAÍDA,taxa do banco,0.99,,25.xlsx,25
+2025-08-21,SAÍDA,taxa do banco,0.99,,25.xlsx,25
+2025-08-21,SAÍDA,taxa do banco,0.55,,25.xlsx,25
+2025-08-22,SAÍDA,jurídico,71.89,,25.xlsx,25
+2025-08-22,SAÍDA,servidor,47.18,,25.xlsx,25
+2025-09-22,SAÍDA,servidor,47.18,,25.xlsx,25
+2025-09-22,SAÍDA,taxa do banco,0.99,,25.xlsx,25
+2025-10-17,SAÍDA,taxa do banco,0.99,,25.xlsx,25
+2025-10-20,SAÍDA,trimestralidade,800.0,,25.xlsx,25
+2025-10-20,SAÍDA,contador,1505.0,,25.xlsx,25
+2025-10-22,SAÍDA,taxa do banco,273.22,,25.xlsx,25
+2025-10-22,SAÍDA,servidor,47.18,,25.xlsx,25
+2025-11-17,SAÍDA,servidor,45.19,,25.xlsx,25
+2025-11-18,SAÍDA,contador,159.0,,25.xlsx,25
+2025-12-22,SAÍDA,servidor,47.18,,25.xlsx,25
+2025-07-23,ENTRADA,taxa do banco,386.0,,25.xlsx,25
+2025-07-23,ENTRADA,taxa do banco,67.72,,25.xlsx,25
+2025-10-08,ENTRADA,membro,12.0,,25.xlsx,25
+2025-10-22,ENTRADA,taxa do banco,273.22,,25.xlsx,25
+2025-01-03,SAÍDA,taxa do banco,0.07,,25.xlsx,25
+2025-01-10,SAÍDA,taxa do banco,8.35,,25.xlsx,25
+2025-02-04,SAÍDA,taxa do banco,0.09,,25.xlsx,25
+2025-03-06,SAÍDA,taxa do banco,0.06,,25.xlsx,25
+2025-04-02,SAÍDA,taxa do banco,0.07,,25.xlsx,25
+2025-04-14,SAÍDA,taxa do banco,7.35,,25.xlsx,25
+2025-04-15,SAÍDA,taxa do banco,90.0,,25.xlsx,25
+2025-04-28,SAÍDA,taxa do banco,118.0,,25.xlsx,25
+2025-05-05,SAÍDA,taxa do banco,0.96,,25.xlsx,25
+2025-05-12,SAÍDA,taxa do banco,33.74,,25.xlsx,25
+2025-06-03,SAÍDA,taxa do banco,34.59,,25.xlsx,25
+2025-06-03,SAÍDA,taxa do banco,0.6,,25.xlsx,25
+2025-07-01,SAÍDA,taxa do banco,57.55,,25.xlsx,25
+2025-07-02,SAÍDA,taxa do banco,0.39,,25.xlsx,25
+2025-07-25,SAÍDA,taxa do banco,1.1,,25.xlsx,25
+2025-08-01,SAÍDA,taxa do banco,49.44,,25.xlsx,25
+2025-08-01,SAÍDA,taxa do cartão,7.35,,25.xlsx,25
+2025-08-01,SAÍDA,taxa do banco,0.27,,25.xlsx,25
+2025-09-01,SAÍDA,taxa do banco,1.47,,25.xlsx,25
+2025-09-02,SAÍDA,taxa do banco,0.05,,25.xlsx,25
+2025-10-01,SAÍDA,taxa do banco,1.76,,25.xlsx,25
+2025-10-08,SAÍDA,taxa do banco,0.27,,25.xlsx,25
+2025-10-10,SAÍDA,taxa do banco,0.02,,25.xlsx,25
+2025-10-22,SAÍDA,taxa do banco,7.35,,25.xlsx,25
+2025-10-22,SAÍDA,taxa do banco,129.0,,25.xlsx,25
+2025-10-22,SAÍDA,taxa do banco,129.0,,25.xlsx,25
+2025-10-22,SAÍDA,taxa do banco,7.35,,25.xlsx,25

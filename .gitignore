@@ -1,5 +1,18 @@
-# Dados brutos e processados nao vao para o Git (financeiro/LGPD)
-data/
+# Dados brutos nunca vao para o Git (financeiro/LGPD)
+data/raw/
+
+# Dados processados: so o anonimizado publico vai pro git
+data/processed/*.csv
+!data/processed/dataset_publico.csv
+
+# Amostras de dado real usadas nos exercicios de aprendizado
+exercicios_pandas/data/
+
+# Notebook interno com nome de cliente real nos outputs (nao publico)
+notebooks/analise.ipynb
+
+# Notebooks de exercicio tambem tem dado real nos outputs
+exercicios_pandas/*.ipynb
 
 # Python
 __pycache__/
