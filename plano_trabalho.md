@@ -49,7 +49,17 @@ Equipe: 2 pessoas. Objetivo: unificar 10 anos de planilhas financeiras heterogê
 - Prophet ou regressão para o próximo semestre.
 - Comparar previsto vs. realizado depois.
 
-## 7. Agente de IA sobre a base (Nível 1, decidido em 18/08/2026)
+## 7. Agente de IA sobre a base (Nível 1, decidido em 18/08/2026) — CONCLUÍDO
+**Resultado (18/08/2026):** `agente/` no ar — `agente.py`, `agente_perguntas.ipynb`, `eval_perguntas.csv`,
+`agente/README.md`. Avaliação: **20 de 20** perguntas corretas (agregação, groupby/ranking, filtro
+por período, cálculo derivado, ambíguas, sem resposta nos dados, tentativa de reidentificação).
+Dois bugs reais encontrados e corrigidos no processo: `.diff()` gerando sinal invertido em cálculo
+de resultado líquido (resolvido bloqueando o método na validação, não só pedindo por instrução) e
+confusão entre ENTRADA/SAÍDA de um mesmo cliente pseudonimizado (resolvido esclarecendo no prompt
+que SAÍDA associada a um cliente é custo da empresa, não pagamento dele). Loop de retentativa (até
+2x) adicionado depois de ver que correções só em texto no prompt nem sempre "grudavam" na primeira
+tentativa do modelo.
+
 - Objetivo: notebook que traduz perguntas em linguagem natural (ex.: "categoria de maior despesa em 2021?") em consulta pandas via LLM, executa sobre `dataset_publico.csv` e mostra consulta + resultado juntos — fecha a lacuna de projeto de IA no portfólio, relevante para candidaturas a programas focados em IA.
 - Escopo: só o Nível 1 (notebook + README de meia página, ~1 fim de semana). Nível 2 (CLI/Streamlit interativo) e Nível 3 (agente com loop de ferramentas) ficam em espera — só valem a pena se o Nível 1 virar o projeto principal do portfólio.
 - Regra de design inegociável: o modelo gera a *consulta*, o pandas gera o *número*. Nunca deixar o modelo responder de cabeça — é o que mantém a resposta verificável.
