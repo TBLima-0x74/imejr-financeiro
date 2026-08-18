@@ -12,7 +12,7 @@ Equipe: 2 pessoas. Objetivo: unificar 10 anos de planilhas financeiras heterogê
 | 3 | Análise | Notebook com insights | 2 sem |
 | 4 | Dashboard | Painel para diretoria | 1-2 sem |
 | 5 | Previsão (opcional) | Modelo de receita | 1 sem |
-| 6 | Divulgação | README, posts, currículo | contínuo |
+| 7 | Agente de IA (Nível 1) | Notebook que traduz perguntas em consulta pandas via LLM | 1 fim de semana |
 
 ## 0. Preparação
 - Autorização formal da diretoria.
@@ -49,11 +49,16 @@ Equipe: 2 pessoas. Objetivo: unificar 10 anos de planilhas financeiras heterogê
 - Prophet ou regressão para o próximo semestre.
 - Comparar previsto vs. realizado depois.
 
-## 6. Divulgação
-- README com dados anonimizados.
-- 4 posts LinkedIn: pipeline, insights, vídeo do dashboard, decisões da diretoria.
-- Estrutura: problema → solução → gráfico → impacto → GitHub.
-- Frase de currículo orientada a resultado.
+## 7. Agente de IA sobre a base (Nível 1, decidido em 18/08/2026)
+- Objetivo: notebook que traduz perguntas em linguagem natural (ex.: "categoria de maior despesa em 2021?") em consulta pandas via LLM, executa sobre `dataset_publico.csv` e mostra consulta + resultado juntos — fecha a lacuna de projeto de IA no portfólio, relevante para candidaturas a programas focados em IA.
+- Escopo: só o Nível 1 (notebook + README de meia página, ~1 fim de semana). Nível 2 (CLI/Streamlit interativo) e Nível 3 (agente com loop de ferramentas) ficam em espera — só valem a pena se o Nível 1 virar o projeto principal do portfólio.
+- Regra de design inegociável: o modelo gera a *consulta*, o pandas gera o *número*. Nunca deixar o modelo responder de cabeça — é o que mantém a resposta verificável.
+- Validar a consulta gerada antes de executar (nada de `eval` sobre string livre; restringir a operações de leitura sobre o DataFrame conhecido).
+- Definir e testar o comportamento quando a pergunta não tem resposta nos dados — "não sei" é resultado válido, não falha. Conecta diretamente com a divergência de saldo já documentada como limitação conhecida em `relatorio_fases_1_a_3.md`.
+- Montar um conjunto de 15-20 perguntas com resposta calculada manualmente **antes** de escrever o agente — define o que "pronto" significa e evita a versão que impressiona na demo e erra na pergunta seguinte.
+- Módulo isolado do pipeline principal (pasta própria, ex. `agente/`), documentado no README como componente à parte — não mistura com `src/readers.py` nem com os notebooks de análise.
+- Dataset já é anonimizado — ok enviar a uma API externa, mas documentar essa decisão explicitamente; nenhuma versão não anonimizada dos dados pode alcançar a API.
+- Prioridade: fazer depois do housekeeping do repositório (arquivo de sugestão fora do repo, push confirmado) e antes do Dashboard (Fase 4) e da Previsão (Fase 5), que seguem em espera.
 
 ## Checklist de verificação
 

@@ -14,6 +14,9 @@ notebooks/analise.ipynb
 # Notebooks de exercicio tambem tem dado real nos outputs
 exercicios_pandas/*.ipynb
 
+# Versao completa do plano (inclui Fase 6, com mencao a curriculo/LinkedIn) - so local
+plano_trabalho_local.md
+
 # Python
 __pycache__/
 *.pyc
