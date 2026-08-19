@@ -106,4 +106,4 @@ Os dados financeiros originais foram usados com autorização formal da diretori
 
 ---
 
-Projeto desenvolvido como parte da gestão financeira da IME júnior — Empresa Júnior de Engenharia Mecânica do IME.
+Projeto desenvolvido como parte da gestão financeira da IME júnior — Empresa Júnior de Engenharia do IME.
